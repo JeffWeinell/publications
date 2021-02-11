@@ -37,9 +37,9 @@
    - **Add Link to Sequence Data**
  - Weinell, Jeffrey L, & Aaron M Bauer. 2018. Systematics and phylogeography of the widely distributed African skink *Trachylepis varia* species complex. *Molecular Phylogenetics and Evolution* 120, 103–117.
 **Article & Supplementary Figs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell2018_Trachylepis-varia_MPE_Final_WithSupplementary.pdf)
-; Table S1 – Primers: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS1_primers.pdf)
-; Table S2 – GenBank IDs: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS2_genbank.pdf)
-; Table S3 – Sample Locality data: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS3_LocalityData.pdf)
+; **Table S1 – Primers**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS1_primers.pdf)
+; **Table S2 – GenBank IDs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS2_genbank.pdf)
+; **Table S3 – Sample Locality data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS3_LocalityData.pdf)
    - **Add Link to Sequence Data**
 
 ### 2017
@@ -55,8 +55,8 @@
    - **Add Link to Sequence Data**
  - Karin, Benjamin R, & Margarita Metallinou, Jeffrey L Weinell, Todd R Jackman, Aaron M Bauer. 2016. Resolving the higher-order phylogenetic relationships of the circumtropical *Mabuya* group (Squamata: Scincidae): An out-of-Asia diversification. *Molecular Phylogenetics and Evolution* 102, 220–232.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Karin-et-al_2016_Mabuya-group.pdf)
-; Supplementary Data 1: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Karin-et-al_2016_SupplementaryData1.pdf)
-; Supplementary Data 2: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Karin-et-al_2016_SupplementaryData2.xlsx)
+; **Supplementary Data 1**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Karin-et-al_2016_SupplementaryData1.pdf)
+; **Supplementary Data 2**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Karin-et-al_2016_SupplementaryData2.xlsx)
 
 
 
