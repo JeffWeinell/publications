@@ -1,6 +1,7 @@
 ## Jeff Weinell
  Publications and data
- Last updated: 11 February 2021
+ 
+ *Last update 11 February 2021*
 
 
 ### 2021
