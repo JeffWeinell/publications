@@ -31,7 +31,7 @@
 
 ### 2018
  - Leviton, Alan E, & Cameron D Siler, Jeffrey L Weinell, Rafe M Brown. 2018. Synopsis of the snakes of the Philippines: A synthesis of data from biodiversity repositories, field studies, and the literature. *Proceedings of the California Academy of Sciences, Series 4* 64(14), 399-568.
-**Article**: [PDF]https://github.com/JeffWeinell/publications/raw/main/papers/Leviton-et-al_2018_SynopsisPhilippineSnakes.pdf)
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Leviton-et-al_2018_SynopsisPhilippineSnakes.pdf)
  - Weinell, Jeffrey L, & Rafe M Brown. 2018. Discovery of an old, archipelago-wide, endemic radiation of Philippine snakes. *Molecular phylogenetics and evolution* 119, 144-150.
    - [Article](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Brown_2018_Cyclocorinae.pdf)
    - **Add Link to Sequence Data**
