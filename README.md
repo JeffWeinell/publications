@@ -21,7 +21,7 @@
 
 ### 2019
  - Weinell, Jeffrey L, & Errol Hooper, Alan E Leviton, Rafe M Brown. 2019. Illustrated Key to the Snakes of the Philippines. *Proceedings of the California Academy of Sciences, Series 4* 66(1), 1-49, 47 figs.
-**Article**:[PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019c_Illustrated-Key-to-Philippine-Snakes_Final-Version_HQ.pdf)
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019c_Illustrated-Key-to-Philippine-Snakes_Final-Version_HQ.pdf)
  - Weinell, Jeffrey L, & William R Branch, Timothy J Colston, Todd R Jackman, Arianna Kuhn, Werner Conradie, Aaron M Bauer. 2019. A species-level phylogeny of *Trachylepis* (Scincidae: Mabuyinae) provides insight into their reproductive mode evolution. *Molecular Phylogenetics and Evolution* 136, 183-195.
    - [Article](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019b_Trachylepis_FinalVersion.pdf)
    - **Add Link to Sequence Data**
@@ -31,7 +31,7 @@
 
 ### 2018
  - Leviton, Alan E, & Cameron D Siler, Jeffrey L Weinell, Rafe M Brown. 2018. Synopsis of the snakes of the Philippines: A synthesis of data from biodiversity repositories, field studies, and the literature. *Proceedings of the California Academy of Sciences, Series 4* 64(14), 399-568.
-**Article**:[PDF]https://github.com/JeffWeinell/publications/raw/main/papers/Leviton-et-al_2018_SynopsisPhilippineSnakes.pdf)
+**Article**: [PDF]https://github.com/JeffWeinell/publications/raw/main/papers/Leviton-et-al_2018_SynopsisPhilippineSnakes.pdf)
  - Weinell, Jeffrey L, & Rafe M Brown. 2018. Discovery of an old, archipelago-wide, endemic radiation of Philippine snakes. *Molecular phylogenetics and evolution* 119, 144-150.
    - [Article](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Brown_2018_Cyclocorinae.pdf)
    - **Add Link to Sequence Data**
@@ -47,7 +47,7 @@
    - [Article](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Austin_2017_Cemophora.pdf)
    - **Add Link to Sequence Data**
  - Weinell, Jeffrey L, & Daniel M Portik, Aaron M Bauer. 2017. Noteworthy records of amphibians and reptiles from Mozambique. *African Herp News* 65, 4-10.
-**Article**:[PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2017_MozambiqueNote.pdf)
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2017_MozambiqueNote.pdf)
 
 ### 2016
  - Metallinou, Margarita, & Jeffrey L Weinell, Benjamin R Karin, Werner Conradie, Philipp Wagner, Andreas Schmitz, Todd R Jackman, Aaron M Bauer. 2016. A single origin of extreme matrotrophy in African mabuyine skinks. *Biology Letters* 12(8), 20160430.
