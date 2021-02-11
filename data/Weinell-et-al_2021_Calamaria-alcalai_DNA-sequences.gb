@@ -1,7 +1,7 @@
 LOCUS       MT819383                     665 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria alcalai voucher PNM 9873 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq1
+ACCESSION   MT819383
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria alcalai
@@ -63,7 +63,7 @@ ORIGIN
 LOCUS       MT819384                    1012 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria gervaisii voucher KU 324661 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq2
+ACCESSION   MT819384
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria gervaisii
@@ -136,7 +136,7 @@ ORIGIN
 LOCUS       MT819385                    1012 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria gervaisii voucher KU 334485 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq3
+ACCESSION   MT819385
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria gervaisii
@@ -209,7 +209,7 @@ ORIGIN
 LOCUS       MT819386                     329 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria palavanensis voucher KU 309445 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq4
+ACCESSION   MT819386
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria palavanensis
@@ -263,7 +263,7 @@ ORIGIN
 LOCUS       MT819387                     350 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria palavanensis voucher KU 311411 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq5
+ACCESSION   MT819387
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria palavanensis
@@ -317,7 +317,7 @@ ORIGIN
 LOCUS       MT819388                    1012 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria lumbricoidea voucher KU 315159 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq6
+ACCESSION   MT819388
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria lumbricoidea
@@ -390,7 +390,7 @@ ORIGIN
 LOCUS       MT819389                    1008 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria lumbricoidea voucher KU 334479 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq7
+ACCESSION   MT819389
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria lumbricoidea
@@ -463,7 +463,7 @@ ORIGIN
 LOCUS       MT819390                     371 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria muelleri voucher TNHC 58955 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq8
+ACCESSION   MT819390
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria muelleri
@@ -518,7 +518,7 @@ ORIGIN
 LOCUS       MT819391                     372 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria muelleri voucher RMB 1283 cytochrome b (cytb) gene,
             partial cds; mitochondrial.
-ACCESSION   Seq9
+ACCESSION   MT819391
 VERSION
 KEYWORDS    .
 SOURCE      mitochondrion Calamaria muelleri
@@ -573,7 +573,7 @@ ORIGIN
 LOCUS       MT819429                     584 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria alcalai voucher PNM 9873 oocyte maturation factor (C-MOS)
             gene, partial cds.
-ACCESSION   Seq1
+ACCESSION   MT819429
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria alcalai
@@ -629,7 +629,7 @@ ORIGIN
 LOCUS       MT819430                     569 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria gervaisii voucher KU 324661 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq2
+ACCESSION   MT819430
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria gervaisii
@@ -688,7 +688,7 @@ ORIGIN
 LOCUS       MT819431                     569 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria gervaisii voucher KU 334485 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq3
+ACCESSION   MT819431
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria gervaisii
@@ -747,7 +747,7 @@ ORIGIN
 LOCUS       MT819432                     579 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria palavanensis voucher KU 309445 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq4
+ACCESSION   MT819432
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria palavanensis
@@ -803,7 +803,7 @@ ORIGIN
 LOCUS       MT819433                     584 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria palavanensis voucher KU 311411 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq5
+ACCESSION   MT819433
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria palavanensis
@@ -859,7 +859,7 @@ ORIGIN
 LOCUS       MT819434                     566 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria lumbricoidea voucher KU 315159 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq6
+ACCESSION   MT819434
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria lumbricoidea
@@ -918,7 +918,7 @@ ORIGIN
 LOCUS       MT819435                     583 bp    DNA     linear   VRT 27-JUL-2020
 DEFINITION  Calamaria lumbricoidea voucher KU 334479 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq7
+ACCESSION   MT819435
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria lumbricoidea
@@ -977,7 +977,7 @@ ORIGIN
 LOCUS       MT819436                     583 bp    DNA     linear       27-JUL-2020
 DEFINITION  Calamaria muelleri voucher TNHC 58955 oocyte maturation factor
             (C-MOS) gene, partial cds.
-ACCESSION   Seq8
+ACCESSION   MT819436
 VERSION
 KEYWORDS    .
 SOURCE      Calamaria muelleri
