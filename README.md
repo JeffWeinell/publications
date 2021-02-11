@@ -4,10 +4,8 @@
 
 
 ### 2021
- - Weinell, Jeffrey L, & Alan E Leviton, Rafe M Brown. 2021. A new species of reed snake, genus *Calamaria* (Colubridae: Calamariinae), from Mindoro Island, Philippines. *Philippine Journal of Systematic Biology* 14(2), 1–14.
-   - [Article](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2021_Calamaria-alcalai.pdf); 
-   - [DNA sequences GenBank flatfile](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2021_Calamaria-alcalai_DNA-sequences.gb)
-   - [DNA sequences fasta](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2021_Calamaria-alcalai_DNA-sequences.fas)
+ - Weinell, Jeffrey L, & Alan E Leviton, Rafe M Brown. 2021. A new species of reed snake, genus *Calamaria* (Colubridae: Calamariinae), from Mindoro Island, Philippines. *Philippine Journal of Systematic Biology* 14(2), 1–14. 
+ [Article](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2021_Calamaria-alcalai.pdf); DNA sequences: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2021_Calamaria-alcalai_DNA-sequences.gb), [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2021_Calamaria-alcalai_DNA-sequences.fas)
 
 ### 2020
  - Weinell, Jeffrey L, & Daniel J Paluh, Cameron D Siler, Rafe M Brown. 2020. A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from the Philippines. *Copeia* 108(4), 907-923.
