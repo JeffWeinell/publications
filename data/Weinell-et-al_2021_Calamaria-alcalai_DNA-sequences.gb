@@ -1,0 +1,1040 @@
+LOCUS       MT819383                     665 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria alcalai voucher PNM 9873 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq1
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria alcalai
+  ORGANISM  Calamaria alcalai
+            Unclassified.
+REFERENCE   1  (bases 1 to 665)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 665)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..665
+                     /organism="Calamaria alcalai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PNM 9873"
+     gene            <1..>665
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>665
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLACLTLQITTGFFLAIHYTANINLAFSSIIHILR
+                     DVPHGWLMQNLHAIGASMFFICIYIHIARGLYYGSYMNKEVWASGIILLITLMATAFF
+                     GYILPWGQMSFWAATVITNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHFILPF
+                     ILISMSSIHILLLHNEGSNNPLGTNSDIDKIPFHPYHSYKDALMLTLMITMLFAITSF
+                     TPD"
+BASE COUNT      205 a    190 c     76 g    194 t
+ORIGIN      
+        1 tccacttgat gaaattttgg ctcaatacta ttagcatgtt taaccctaca aattacaacc
+       61 ggattctttt tagcaattca ctacacagcc aatattaacc tagccttttc atcaatcatc
+      121 catatcctac gagacgttcc acacggatga ttaatacaaa atctacacgc tatcggcgca
+      181 tctatattct ttatctgcat ctacatccac attgcacgag gcttatacta tggatcctat
+      241 atgaacaaag aagtctgagc atcgggcatt attctactaa ttacccttat agcaacagcc
+      301 ttctttggtt atatcctacc atgaggccaa atatcatttt gagccgcaac agtaatcaca
+      361 aatctactta ctgccatccc ttatttagga accacactaa caacctgact ttgaggcggg
+      421 ttctcaatca atgacccaac cctaacccga ttctttgccc tacacttcat cctaccgttc
+      481 atccttatct ctatatcctc aattcacatc ctactactac acaacgaagg gtcaaataac
+      541 ccgctaggaa caaactcaga tattgataag atcccgttcc acccctacca ctcctacaaa
+      601 gatgccctaa tattaacact aataattact atactcttcg ccattacatc cttcacccca
+      661 gacat
+//
+LOCUS       MT819384                    1012 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria gervaisii voucher KU 324661 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq2
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria gervaisii
+  ORGANISM  Calamaria gervaisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Calamaria gervaisii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 324661"
+                     /db_xref="taxon:2202129"
+     gene            <1..>1012
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>1012
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLSCLALQITTGFFLAIHYTANINLAFSSVIHILR
+                     DVPHGWLMQNLHAIGASTFFICVYIHIARGLYYGLYLNKEVWMSGIMLLITLMATAFF
+                     GYILPWGQMSFWAATVITNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHFILPF
+                     IIISLSSIHIMLLHNEGSNNPLGTNSDTDKIPFHPYHTYKDTLMLTMMITAMFIIMSF
+                     TPDIFNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTIALVLSIIILLT
+                     LPFTHTAHTRPMTFRPLAQLMFWTLTTTLIMITWTASKPVEPPFTIIGQMTSILYFMF
+                     FTT"
+BASE COUNT      313 a    288 c    108 g    303 t
+ORIGIN      
+        1 tccacctgat gaaattttgg ctcaatacta ctatcatgtt tagccctaca aatcacaaca
+       61 gggttcttct tagcaattca ctatacagcc aatatcaact tagctttttc atctgtcatt
+      121 catatcctac gagatgtccc tcatggatga ctaatacaaa accttcatgc cattggcgca
+      181 tccacatttt ttatctgcgt atatatccac attgcacgag gcctatatta cggactatac
+      241 ctaaataaag aagtatggat atcaggcatc atacttctaa ttacacttat agcaacagct
+      301 ttcttcggct atatcctacc atgaggacag atgtcatttt gagccgcaac agtaatcacc
+      361 aacttactta ccgctattcc ctacttagga actaccctaa caacctgact ttgaggcggg
+      421 ttctcaatta atgatccaac cttaacccga ttctttgctc tacacttcat tttgcctttt
+      481 attattatct ctctctcctc aattcatatt atactactac acaacgaagg atccaacaac
+      541 ccactaggaa caaactcaga caccgacaaa atcccattcc acccctacca cacttacaag
+      601 gacaccttga tattaaccat aataatcact gctatattta tcatcatatc ttttacccca
+      661 gatattttca acgatccaga aaacttctca aaagctaatc cgctagtaac gccacaacac
+      721 attaaaccag agtgatactt tctatttgcc tatgggatcc tccgatcaat cccaaataaa
+      781 ctagggggca ctattgccct agtcctctct attattatcc tactaacact acctttcacc
+      841 cacactgccc acactcgacc tataaccttc cgaccactag cccaactcat attttgaaca
+      901 ctaacaacta cccttattat aattacatga acagcctcta aaccagtaga acccccattt
+      961 actatcattg gccaaataac ttcaatcctt tactttatat ttttcaccac cc
+//
+LOCUS       MT819385                    1012 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria gervaisii voucher KU 334485 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq3
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria gervaisii
+  ORGANISM  Calamaria gervaisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Calamaria gervaisii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 334485"
+                     /db_xref="taxon:2202129"
+     gene            <1..>1012
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>1012
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLSCLALQXTTGFFLAIHYTANXNLAFSSVXHXLR
+                     DVPXGWXMQXLHAXGASXFFICXXXHIARGLXXGSXXNKEVWLSGILLLITLMATAFF
+                     GYILPWGXMSFWAATVXTNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHXILPF
+                     IIISLSSIHIMLLHNEGSNNPLGTNSDTDKIPFHPYHTYKDTLMLTXMITTMFXIMSF
+                     TPXIFNXPENFSKANPLVTPQHIKPEWYFLFAXGILRSIPNKLGGTIALVLSXIIXLT
+                     LPFTHTSHTRPMTFRPLAQLMFWTXTATLIMITWTASKPVEPPFTXXGQMTSILYFMF
+                     FTX"
+BASE COUNT      311 a    284 c     98 g    267 t     52 others
+ORIGIN      
+        1 tccacctgat gaaattttgg ntcaatatta ctatcatgct tggcnctaca aatnacaacn
+       61 ggnttctttc tagcaatcca ctatacagcc aatatnaacc tagctttttc atctgtcatn
+      121 catatnctac gagatgtncc ncanggntga ntaatacaaa ancttcatgc catnggcgca
+      181 tccanatttt tcatctgcnt ntananccac atcgcacgtg gcctatanta nggntcatan
+      241 ntaaacaaag aagtatgact atcaggcatc ctacttctaa ttacncttat agcaacagcc
+      301 ttcttcggct acatcctgcc atgaggacan atatcatttt gagcngcaac agtaatnacn
+      361 aacctactta ccgccatccc ctacttagga accacnctaa caacctgact ttgagggggt
+      421 ttctcaatta atgacccaac tctaacccga ttctttgccc tacacttnat tctacctttt
+      481 attattattt ctctttcctc aattcacatt atactactac acaacgaagg gtccaacaat
+      541 ccactaggaa caaactcaga cacngacaaa attccattcc acccatacca cacctacaag
+      601 gacaccctaa tattaaccnt aataatcacc actatattca ncattatatc cttcacccca
+      661 ganatcttca acganccaga aaacttctca aaagcnaatc cactagtaac accacaacac
+      721 atcaaaccag aatgatactt cctatttgcc tanggaatcc tncgatcaat cccaaataaa
+      781 ctaggaggca ccattgcctt agtcctctct atnattattn tactaacact acctttcacn
+      841 cacacntcnc acacccgacc cataaccttc cgaccactag cccaactnat attttgaaca
+      901 ntaacagcca cccttattat aattacatga acagcctcca aaccagtaga accaccattt
+      961 acnantatng gccaaataac ctcnattcta tactttatat ttttcaccnc cc
+//
+LOCUS       MT819386                     329 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria palavanensis voucher KU 309445 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq4
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria palavanensis
+  ORGANISM  Calamaria palavanensis
+            Unclassified.
+REFERENCE   1  (bases 1 to 329)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 329)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..329
+                     /organism="Calamaria palavanensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 309445"
+     gene            <1..>329
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>329
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="FWAATVITNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHF
+                     ILPFIIISLSSIHIMLLHNEGSNNPLGTNSDIDKIPFHPYHSYKDTLMLAMMITLMFT
+                     ITSFAPD"
+BASE COUNT      100 a    109 c     27 g     93 t
+ORIGIN      
+        1 tttctgagca gcaacagtaa tcaccaacct acttaccgcc atcccttact taggaactac
+       61 cctaaccacc tgactctgag gcggtttctc aatcaatgac ccaaccctaa cccgtttctt
+      121 cgccctacat tttattctac cttttattat catctccctc tcctcaattc acattatact
+      181 actacacaac gaaggctcta ataacccact aggaacaaac tcagatattg ataaaatccc
+      241 atttcaccca taccactcct acaaagacac ccttatacta gccataataa ttacccttat
+      301 attcactatt acatccttcg ccccagaca
+//
+LOCUS       MT819387                     350 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria palavanensis voucher KU 311411 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq5
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria palavanensis
+  ORGANISM  Calamaria palavanensis
+            Unclassified.
+REFERENCE   1  (bases 1 to 350)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 350)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..350
+                     /organism="Calamaria palavanensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 311411"
+     gene            <1..>350
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>350
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="FWAATVITNLLTXXXXXXXXXXXXLWGGFSINDPTLTRFFALHF
+                     ILPFIIISLSSIHIMLLHNEGSNNPLGTNSDIDKIPFHPYHSYKDTFMLTLMITLMFT
+                     ITSFAPDIFNDPEN"
+BASE COUNT       99 a    102 c     25 g     90 t     34 others
+ORIGIN      
+        1 tttctgagca gcaacagtaa tcaccaacct acttaccnnn nnnnnnnnnn nnnnnnnnnn
+       61 nnnnnnnnnn ngactctgag gcggtttctc aatcaatgac ccaaccctaa cccgtttctt
+      121 cgccctacac tttattctac cttttattat catctccctc tcctcaattc acattatact
+      181 actacacaac gaaggctcta ataacccact aggaacaaac tcagacattg ataaaattcc
+      241 atttcaccca taccactcct acaaagacac cttcatacta accctaataa ttacccttat
+      301 attcactatt acatccttcg ccccagacat tttcaacgat ccagaaaact
+//
+LOCUS       MT819388                    1012 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria lumbricoidea voucher KU 315159 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq6
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria lumbricoidea
+  ORGANISM  Calamaria lumbricoidea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Calamaria lumbricoidea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 315159"
+                     /db_xref="taxon:2202130"
+     gene            <1..>1012
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>1012
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLALQTTTGFFLAIHYTANINLAFSSVIHILR
+                     DVPYGWLMQNLHATGASMFFICIYIHIARGLYYGYYMNKKVWLSGILLLITLMATAFF
+                     GYILPWGQMSFWAATVITNLLTAIPYLGTMLMTWLWGGFSINDPTLTRFFALHFILPF
+                     IIISLSSIHIMLLHNEGSNNPLGTNSDIDKIPFHPYHSYKDTLMLALMITTLFAITSF
+                     TPDIFNDPENFSKANPLVTPQHIKPEWYFLFAYGILQSIPNKLGGTITLLFSIIILLT
+                     PPFTHTSHALPMTFHPLA*LMFWTLTTTLIMITWTATKPVEPQFTIIGQMTSILYFMF
+                     FIT"
+BASE COUNT      325 a    299 c     95 g    293 t
+ORIGIN      
+        1 tccacctgat gaaatttcgg atcaatacta ttaacatgtt tagccctaca aaccacaacc
+       61 ggattctttt tagcaattca ttatacagcc aacatcaacc tggccttctc atctgttatt
+      121 catattttac gagatgtacc gtacggatga ttaatacaaa accttcacgc caccggcgca
+      181 tccatattct ttatctgcat ttacatccat attgcacgcg gcctatacta cggatactac
+      241 ataaacaaaa aagtatgact atcgggtatt ctactcctaa ttactcttat agcaacagcc
+      301 ttctttggct atattctacc atgaggccaa atatcattct gagccgcaac agtaattaca
+      361 aacctactca ctgccatccc ctatttagga actatactaa taacctgact atggggagga
+      421 ttttcaatta atgaccccac tctaactcga ttctttgcct tacattttat cctacctttc
+      481 atcatcatct ctctctcctc aatccacatc atactactac acaacgaagg ctctaataac
+      541 cctcttggaa caaactcaga tattgacaaa attccatttc acccatacca ctcctacaaa
+      601 gacaccctaa tactagcact aataattacc accctctttg ccatcacatc cttcacccct
+      661 gatatcttca atgacccaga aaacttctca aaagctaacc cgctagtaac accacaacac
+      721 atcaaaccag aatgatactt cctatttgcc tatggaatcc tccaatctat tccaaacaaa
+      781 ctaggaggca ccatcaccct actattctca attattatcc tactaacacc accattcact
+      841 cacacctcac acgccctacc cataactttc cacccactag cataactaat attttgaact
+      901 ctaacaacaa ctctcattat aattacatga acagccacta aaccagtaga accacaattt
+      961 actattatcg gccaaatgac ctctattcta tactttatat ttttcatcac cc
+//
+LOCUS       MT819389                    1008 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria lumbricoidea voucher KU 334479 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq7
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria lumbricoidea
+  ORGANISM  Calamaria lumbricoidea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 1008)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Calamaria lumbricoidea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 334479"
+                     /db_xref="taxon:2202130"
+     gene            <1..>1008
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>1008
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWXFGSMLLTCXALQTTTGFXLAIXXTANINLAFSSXIHIXR
+                     DVPXGWLMQNLHATGASMFFXYIYIHIARGXYYXSYMNKKVWXSGXLLLITLMATAFX
+                     GXXLPWGQMSFWAATVITNLLTAXPYLGTXXTTWLWGGFSINDXTLTRFFALHFILPF
+                     IXXSLSSIHXMLXHXKGSSNPLGTNSDIDKIPXHPYHSYKXTLMLTLMITXLFAITSF
+                     TPDIXNDPENFSKXNPLXTPQXIKPEWYFLFAYGILXSIPNKLGGTIALXLSIIILLT
+                     PPLTHTSXTRPMTFRPLTQLMFWTLTXTLILITWTATKPVEPPFTIIGQMTSILYFMF
+                     FI"
+BASE COUNT      316 a    273 c     87 g    288 t     44 others
+ORIGIN      
+        1 tccacctgat gaaantttgg atcaatacta ctaacatgtn tagcnctaca aaccacaacc
+       61 ggatttttnc tagcaatcca ntanacagcc aacatcaacc tngccttctc atccnttatt
+      121 catattntac gagacgtacc atanggatga ttaatacaaa accttcacgc taccggcgct
+      181 tctatattct ttatntacat ttacatccat atcgcacgcg gtcnatacta cnnatcttat
+      241 ataaataaaa aagtatgant atcgggcant ctactcctaa ttactcttat agcaacagcc
+      301 ttcttnggct anatnctacc atgaggccaa atatcattct gagccgcaac agtaattaca
+      361 aacttgctca ctgctatncc ntatctngga actatnntaa caacctgact atgaggagga
+      421 ttttcaatta atgatcncac tctaacccga ttctttgcct tacattttat cctacctttc
+      481 atcatnatnt ctctctcctc aattcacatn atattantac acaanaaagg ctctagtaat
+      541 cctcttggaa caaactcaga tattgataaa atcccattnc atccatatca ctcctacaaa
+      601 ganaccctaa tactaacatt aataatcacc tncctatttg ccatcacatc ctttaccccc
+      661 gatatctnca atgacccnga aaatttctca aaanccaacc cactantaac accacaacnt
+      721 attaaaccag aatgatactt cctatttgcc tacggaatcc tccnatctat tcccaacaaa
+      781 ctaggaggca ccatcgccct antactttca attattatcc tactaacacc accactcact
+      841 catacctcac anacccgacc cataactttc cgcccnttaa cacaactaat attttgaact
+      901 ctaacaanaa ctctcatttt aatcacgtga acagccacca aaccagtaga accaccattt
+      961 actattattg gccaaatgac ntctattcta tactttatat ttttcatc
+//
+LOCUS       MT819390                     371 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria muelleri voucher TNHC 58955 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq8
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria muelleri
+  ORGANISM  Calamaria muelleri
+            Unclassified.
+REFERENCE   1  (bases 1 to 371)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 371)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..371
+                     /organism="Calamaria muelleri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TNHC 58955"
+     gene            <1..>371
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>371
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="VITNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHFILPFA
+                     IASLSSIHIMLLHNEGSSNPLGTNSDIDKIPFHPYHSYKDTLMLTLMVTMLFTIMSFT
+                     PDMFNDPENFSKANPLVTPQH"
+BASE COUNT      126 a    111 c     32 g    102 t
+ORIGIN      
+        1 agtaatcaca aatctactca ccgctatccc atatttagga actacactaa caacctgact
+       61 atgaggagga ttctcaatta atgatccgac cctaacccga ttctttgcct tacacttcat
+      121 cctacctttc gccattgcct ctctctcatc aattcatatt atactactac acaacgaagg
+      181 ctctagcaac ccactaggaa caaactcaga tattgacaaa atcccatttc acccatatca
+      241 ctcctacaaa gacaccctaa tattaacatt aatagttact atactattta ctatcatatc
+      301 ttttacccca gatatattca acgacccaga aaacttctca aaagctaacc ccttagtaac
+      361 gccccaacac a
+//
+LOCUS       MT819391                     372 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria muelleri voucher RMB 1283 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   Seq9
+VERSION
+KEYWORDS    .
+SOURCE      mitochondrion Calamaria muelleri
+  ORGANISM  Calamaria muelleri
+            Unclassified.
+REFERENCE   1  (bases 1 to 372)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 372)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:9
+            Bankit Comment: GAP: est. length - alignment
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /organism="Calamaria muelleri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RMB 1283"
+     gene            <1..>372
+                     /gene="cytochrome b (cytb) gene"
+     CDS             <1..>372
+                     /gene="cytochrome b (cytb) gene"
+                     /note="[intronless gene]"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="TVITNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHFILPF
+                     AIASLSSIHIMLLHNEGSSNPLGTNSDIDKIPFHPYHSYKDTLMLTLMITMLFTIMSF
+                     TPDMFNDPENFSKANPLVTPQ"
+BASE COUNT      128 a    113 c     31 g    100 t
+ORIGIN      
+        1 aacagtaatc acaaatctac tcaccgctat cccatattta ggaactacac taacaacctg
+       61 actatgagga ggattctcaa ttaatgaccc gaccctaacc cgattctttg ccttacactt
+      121 catcctacct ttcgccattg cctctctctc atcaattcat attatactac tacacaacga
+      181 aggctctagc aacccactag gaacaaactc agatattgac aaaatcccat ttcacccata
+      241 tcactcctac aaagacaccc taatattaac attaataatt actatactat ttactatcat
+      301 atcttttacc ccagatatat tcaacgaccc agaaaacttc tcaaaagcca accccttagt
+      361 aacgccccaa ca
+//
+
+
+
+
+
+
+
+
+LOCUS       MT819429                     584 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria alcalai voucher PNM 9873 oocyte maturation factor (C-MOS)
+            gene, partial cds.
+ACCESSION   Seq1
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria alcalai
+  ORGANISM  Calamaria alcalai
+            Unclassified.
+REFERENCE   1  (bases 1 to 584)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 584)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..584
+                     /organism="Calamaria alcalai"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PNM 9873"
+     gene            <1..>584
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>584
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /product="oocyte maturation factor mos"
+                     /translation="QLCLFHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQS
+                     FWAELNVARLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTGYLTGN
+                     NDDLKSDHGFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITENNVCKIGDF
+                     GCSQKLEDSESSGLHLCHQGGTYTHRAPELLKGE"
+BASE COUNT      170 a    112 c    129 g    173 t
+ORIGIN      
+        1 cagttatgtc tctttcatct cctgggatct ggtgggtttg gttctgttta caaggcaact
+       61 taccatggag ctacagtggc tgtaaaacaa gtgaagagat gcagtaaaaa ccatttggca
+      121 tcacggcaaa gcttctgggc agaactaaat gtagcacgtc ttgaccataa caatgtggta
+      181 cacatagtag ctgctagcac atgtacccct actagtcagg atagtttggg taccataatt
+      241 atggaatatg ccggtaattg cactctacat catgttatct atgggacagg ttatttaaca
+      301 ggaaataacg atgaccttaa atctgaccat gggtttttga gtacagctca ggctgtcatt
+      361 tactcctgtg atattgtggc agggttaatg tttctccatt ctcagttaat tgtgcatctg
+      421 gatttaaaac ctgctaacat attcataaca gaaaataatg tttgtaagat tggggacttt
+      481 ggatgttccc aaaagctaga agacagcgag tcttcaggac tacatctttg tcatcaaggg
+      541 ggaacataca cacatcgtgc ccctgaactt cttaaaggtg agaa
+//
+LOCUS       MT819430                     569 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria gervaisii voucher KU 324661 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq2
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria gervaisii
+  ORGANISM  Calamaria gervaisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Calamaria gervaisii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 324661"
+                     /db_xref="taxon:2202129"
+     gene            <1..>569
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>569
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="LLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFWA
+                     ELNVARLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTCYLTGNNDD
+                     LKSDHGFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFGCS
+                     QKLEDSESSGLHLCHQGGTYTHRAPELLK"
+BASE COUNT      164 a    112 c    124 g    169 t
+ORIGIN      
+        1 gtctcttgca tctcctggga tctggtgggt ttggttctgt ttacaaggca acttaccatg
+       61 gagctacagt ggctgtaaaa caagtgaaga gatgcagtaa aaaccatttg gcatcacggc
+      121 aaagcttctg ggcagaacta aatgtagcac gtcttgacca taacaatgtg gtacacatag
+      181 tagctgctag cacatgtacc cctactagtc aggatagttt gggtaccata attatggaat
+      241 atgccggtaa ttgcactcta catcatgtta tctatgggac atgttattta acaggaaata
+      301 acgatgacct taaatctgac catgggtttt tgagtacagc tcaggctgtc atttactcct
+      361 gtgatattgt ggcagggtta atgtttctcc attctcagtt gattgtgcat ctggatttaa
+      421 aacctgctaa catattcata acagaacata atgtttgtaa gattggagac tttggatgtt
+      481 cccaaaagct agaagacagc gagtcttcag gactacatct ttgtcatcaa gggggaacat
+      541 acacacatcg tgcccctgaa cttcttaaa
+//
+LOCUS       MT819431                     569 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria gervaisii voucher KU 334485 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq3
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria gervaisii
+  ORGANISM  Calamaria gervaisii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 569)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 569)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..569
+                     /organism="Calamaria gervaisii"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 334485"
+                     /db_xref="taxon:2202129"
+     gene            <1..>569
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>569
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="LLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFWA
+                     ELNVARLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTCYLTGNNDD
+                     LKSDHGFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFGCS
+                     QKLEDSESSGLHLCHQGGTYTHRAPELLK"
+BASE COUNT      164 a    111 c    124 g    169 t      1 others
+ORIGIN      
+        1 gtctcttgca tctcctggga tctggtgggt ttggttctgt ttacaaggca acttaccatg
+       61 gagctacagt ggctgtaaaa caagtgaaga gatgcagtaa aaaccatttg gcatcacggc
+      121 aaagcttctg ggcagaacta aatgtagcac gtcttgacca taacaatgtg gtacacatag
+      181 tagctgctag cacatgtacc cctactagtc aggatagttt gggtaccata attatggaat
+      241 atgccggtaa ttgcactcta catcatgtta tctatgggac atgttattta acaggaaata
+      301 acgatgacct taaatctgac catgggtttt tgagtacagc tcaggctgtc atttactcct
+      361 gtgatattgt ggcagggtta atgtttctyc attctcagtt gattgtgcat ctggatttaa
+      421 aacctgctaa catattcata acagaacata atgtttgtaa gattggagac tttggatgtt
+      481 cccaaaagct agaagacagc gagtcttcag gactacatct ttgtcatcaa gggggaacat
+      541 acacacatcg tgcccctgaa cttcttaaa
+//
+LOCUS       MT819432                     579 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria palavanensis voucher KU 309445 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq4
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria palavanensis
+  ORGANISM  Calamaria palavanensis
+            Unclassified.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Calamaria palavanensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 309445"
+     gene            <1..>579
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>579
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /product="oocyte maturation factor mos"
+                     /translation="LCLLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSF
+                     WAELNVARLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNN
+                     DDLKSDHGFLSTAQAXIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFG
+                     CSQKLEDSESSGLHLCHQGGTYTHRAPELLKGE"
+BASE COUNT      167 a    112 c    126 g    173 t      1 others
+ORIGIN      
+        1 ttatgtctct tgcatctcct gggatctggt ggatttggtt ctgtttacaa ggcaacttac
+       61 catggagcta cagtggctgt aaaacaagtg aagagatgca gtaaaaacca tttggcatca
+      121 cgtcaaagct tctgggcaga actaaatgta gcacgtcttg accataacaa tgtggtacac
+      181 atagtagctg ctagcacatg tacccctact agtcaggata gtttgggtac cataattatg
+      241 gaatatgccg gtaattgcac tctacatcat gttatctatg ggacaggtta tttaacagga
+      301 aataacgatg accttaaatc tgaccatggg tttttgagta cagctcaggc trtcatttac
+      361 tcctgtgata ttgtggcagg gttaatgttt ctccattctc agttgattgt gcatctggat
+      421 ttaaaacctg ctaacatatt cataacagaa cataatgttt gtaagattgg agactttgga
+      481 tgttcccaaa agctagaaga cagcgagtct tcaggactac atctttgtca tcaaggggga
+      541 acatacacac atcgtgcccc tgaacttctt aaaggtgag
+//
+LOCUS       MT819433                     584 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria palavanensis voucher KU 311411 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq5
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria palavanensis
+  ORGANISM  Calamaria palavanensis
+            Unclassified.
+REFERENCE   1  (bases 1 to 584)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 584)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..584
+                     /organism="Calamaria palavanensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 311411"
+     gene            <1..>584
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>584
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /product="oocyte maturation factor mos"
+                     /translation="QLCLLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQS
+                     FWAELNVARLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTGYLTGN
+                     NDDLKSDHGFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDF
+                     GCSQKLEDSESSGLHLCHQGGTYTHRAPELLKGE"
+BASE COUNT      170 a    113 c    128 g    173 t
+ORIGIN      
+        1 cagttatgtc tcttgcatct cctgggatct ggtggatttg gttctgttta caaggcaact
+       61 taccatggag ctacagtggc tgtaaaacaa gtgaagagat gcagtaaaaa ccatttggca
+      121 tcacgtcaaa gcttctgggc agaactaaat gtagcacgtc ttgaccataa caatgtggta
+      181 cacatagtag ctgctagcac atgtacccct actagtcagg atagtttggg taccataatt
+      241 atggaatatg ccggtaattg cactctacat catgttatct atgggacagg ttatttaaca
+      301 ggaaataacg atgaccttaa atctgaccat gggtttttga gtacagctca ggctgtcatt
+      361 tactcctgtg atattgtggc agggttaatg tttctccatt ctcagttgat tgtgcatctg
+      421 gatttaaaac ctgctaacat attcataaca gaacataatg tttgtaagat tggagacttt
+      481 ggatgttccc aaaagctaga agacagcgag tcttcaggac tacatctttg tcatcaaggg
+      541 ggaacataca cacatcgtgc ccctgaactt cttaaaggtg agaa
+//
+LOCUS       MT819434                     566 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria lumbricoidea voucher KU 315159 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq6
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria lumbricoidea
+  ORGANISM  Calamaria lumbricoidea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 566)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 566)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..566
+                     /organism="Calamaria lumbricoidea"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 315159"
+                     /db_xref="taxon:2202130"
+     gene            <1..>566
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>566
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="LLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNNLASRQSFWA
+                     ELNVSRLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNNDL
+                     KSDHRFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFGCSQ
+                     KLEDSKSSGLHLSHQGGTYTHRAPELLK"
+BASE COUNT      168 a    109 c    119 g    170 t
+ORIGIN      
+        1 gtctcttgca tctcctggga tctggtgggt ttggttctgt ttacaaggca acttaccatg
+       61 gagctacagt ggctgtaaaa caagtgaaga gatgcagtaa aaacaatttg gcatcacggc
+      121 aaagcttctg ggcagaacta aatgtatcac gtcttgacca taacaatgtg gtacacatag
+      181 tagctgctag cacatgtacc cctactagtc aggatagttt gggtaccata attatggaat
+      241 atgctggtaa ttgcactcta catcatgtta tatatgggac aggttattta acaggaaata
+      301 acgaccttaa atctgaccat aggtttttga gtacagctca ggctgtcatt tactcctgtg
+      361 atattgtggc agggttaatg tttctccatt ctcagttaat tgtgcatctg gatttaaaac
+      421 ctgctaacat attcataaca gaacataatg tttgtaagat tggagacttt ggatgttctc
+      481 aaaagctaga agacagcaag tcttcaggac tacatctttc tcatcaaggg ggaacataca
+      541 cacatcgtgc ccctgaactt cttaaa
+//
+LOCUS       MT819435                     583 bp    DNA     linear   VRT 27-JUL-2020
+DEFINITION  Calamaria lumbricoidea voucher KU 334479 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq7
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria lumbricoidea
+  ORGANISM  Calamaria lumbricoidea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Calamariinae;
+            Calamaria.
+REFERENCE   1  (bases 1 to 583)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 583)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..583
+                     /organism="Calamaria lumbricoidea"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 334479"
+                     /db_xref="taxon:2202130"
+     gene            <1..>583
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>583
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="LCLLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNNLASRQSF
+                     WAELNVSRLDHNNVVHIVAASTCTPTSQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNN
+                     DDLKSDHRFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFG
+                     CSQKLEDSKSSGLRLSHQGGTYTHRAPELLKGE"
+BASE COUNT      174 a    109 c    125 g    175 t
+ORIGIN      
+        1 agttatgtct cttgcatctc ctgggatctg gtggatttgg ttctgtttac aaggcaactt
+       61 accatggagc tacagtggct gtaaaacaag tgaagagatg cagtaaaaac aatttggcat
+      121 cacggcaaag cttctgggca gaactaaatg tatcacgtct tgaccataac aatgtggtac
+      181 acatagtagc tgctagcaca tgtaccccta ctagtcagga tagtttgggt accataatta
+      241 tggaatatgc tggtaattgc actctacatc atgttatata tgggacaggt tatttaacag
+      301 gaaataacga tgaccttaaa tctgaccata ggtttttgag tacagctcag gctgtcattt
+      361 actcctgtga tattgtggca gggttaatgt ttctccattc tcagttaatt gtgcatctgg
+      421 atttaaaacc tgctaacata ttcataacag aacataatgt ttgtaagatt ggagactttg
+      481 gatgttctca aaagctagaa gacagcaagt cttcaggact acgtctttct catcaagggg
+      541 gaacatacac acatcgtgcc cctgaacttc ttaaaggtga gaa
+//
+LOCUS       MT819436                     583 bp    DNA     linear       27-JUL-2020
+DEFINITION  Calamaria muelleri voucher TNHC 58955 oocyte maturation factor
+            (C-MOS) gene, partial cds.
+ACCESSION   Seq8
+VERSION
+KEYWORDS    .
+SOURCE      Calamaria muelleri
+  ORGANISM  Calamaria muelleri
+            Unclassified.
+REFERENCE   1  (bases 1 to 583)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     A new species of Reed Snake, genus Calamaria (Colubridae:
+            Calamariinae), from Mindoro Island, Philippines
+  JOURNAL   unpublished
+REFERENCE   2  (bases 1 to 583)
+  AUTHORS   Weinell,J.L., Leviton,A.E. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2020) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     Bankit Comment: ALT EMAIL:jeffweinell@ku.edu
+            Bankit Comment: TAX: Yes, new species/combinations; SEE ATTACHMENT
+            Bankit Comment: TOTAL # OF SEQS:8
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..583
+                     /organism="Calamaria muelleri"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TNHC 58955"
+     gene            <1..>583
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+     CDS             <1..>583
+                     /gene="oocyte maturation factor mos (C-mos) gene"
+                     /note="[intronless gene]"
+                     /codon_start=1
+                     /product="oocyte maturation factor mos"
+                     /translation="QLCLLHLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQS
+                     FWAELNVARLDHNNVVHIVAASTCTPTSQDSLGTVIMEYAGNCTLHHVIYGTGYLTGN
+                     NDDLKYDHGFLSTAQAVIYSCDIVAGLKFLHSQLIVHLDLKPANIFITEHNVCKIGDF
+                     GCSQKLEDSESSGLHLCHQGGTYTHRAPELLKGE"
+BASE COUNT      172 a    111 c    128 g    172 t
+ORIGIN      
+        1 cagttatgtc tcttgcatct cctgggatct ggtgggtttg gttctgttta caaggcaact
+       61 taccatggag ctacagtggc tgtaaaacaa gtgaagagat gcagtaaaaa ccatttggca
+      121 tcacggcaaa gcttctgggc agaactaaat gtagcacgtc ttgaccataa caatgtagta
+      181 cacatagtag ctgctagcac atgtacccct actagtcagg atagtttggg taccgtaatt
+      241 atggaatatg ccggtaattg cactctacat catgttatct atgggacagg ttatttaaca
+      301 ggaaataacg atgaccttaa atatgaccat gggtttttga gtacagctca ggctgtcatt
+      361 tactcctgtg atattgtggc agggttaaag tttcttcatt ctcagttaat tgtgcatctg
+      421 gatttaaaac ctgctaacat attcataaca gaacataatg tttgtaagat tggagacttt
+      481 ggatgttccc aaaagctaga agacagcgaa tcttcaggac tacatctttg tcatcaaggg
+      541 ggaacataca cacatcgtgc ccctgaactt cttaaaggtg aga
+//
