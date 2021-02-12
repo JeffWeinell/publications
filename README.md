@@ -36,7 +36,7 @@
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019b_Trachylepis_FinalVersion.pdf)
 ; **DNA sequences**: [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2019_Trachylepis_DNA-sequences.fas).
  - Weinell, Jeffrey L, & Daniel J Paluh, Amber L Singh, and David C Blackburn, 2019. *Myersophis alpestris* (Myers’ Mountain Snake). Reproduction. *Herpetological Review*. 50(1) 164–165.
-**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019a_Myersophis-alpestris_reproduction_HerpReview.pdf).
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019a_Myersophis-alpestris_reproduction_HerpReview.pdf)
 ; **CT Scan**: [KU 203012](https://www.morphosource.org/concern/biological_specimens/000S12650).
 
 ### 2018
