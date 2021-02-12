@@ -43,8 +43,8 @@
  - Leviton, Alan E, & Cameron D Siler, Jeffrey L Weinell, Rafe M Brown. 2018. Synopsis of the snakes of the Philippines: A synthesis of data from biodiversity repositories, field studies, and the literature. *Proceedings of the California Academy of Sciences, Series 4* 64(14), 399-568.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Leviton-et-al_2018_SynopsisPhilippineSnakes.pdf).
  - Weinell, Jeffrey L, & Rafe M Brown. 2018. Discovery of an old, archipelago-wide, endemic radiation of Philippine snakes. *Molecular Phylogenetics and Evolution* 119, 144-150.
-**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Brown_2018_Cyclocorinae.pdf).
-   - **Add Link to Sequence Data**
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Brown_2018_Cyclocorinae.pdf)
+; **DNA sequences**: [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2018_Cyclocorinae_DNA-sequences.fas).
  - Weinell, Jeffrey L, & Aaron M Bauer. 2018. Systematics and phylogeography of the widely distributed African skink *Trachylepis varia* species complex. *Molecular Phylogenetics and Evolution* 120, 103–117.
 **Article & Supplementary Figs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell2018_Trachylepis-varia_MPE_Final_WithSupplementary.pdf)
 ; **Table S1 – Primers**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS1_primers.pdf)
