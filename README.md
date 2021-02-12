@@ -33,8 +33,8 @@
  - Weinell, Jeffrey L, & Errol Hooper, Alan E Leviton, Rafe M Brown. 2019. Illustrated Key to the Snakes of the Philippines. *Proceedings of the California Academy of Sciences, Series 4* 66(1), 1-49, 47 figs.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019c_Illustrated-Key-to-Philippine-Snakes_Final-Version_HQ.pdf).
  - Weinell, Jeffrey L, & William R Branch, Timothy J Colston, Todd R Jackman, Arianna Kuhn, Werner Conradie, Aaron M Bauer. 2019. A species-level phylogeny of *Trachylepis* (Scincidae: Mabuyinae) provides insight into their reproductive mode evolution. *Molecular Phylogenetics and Evolution* 136, 183-195.
-**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019b_Trachylepis_FinalVersion.pdf).
-   - **Add Link to Sequence Data**
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019b_Trachylepis_FinalVersion.pdf)
+; **DNA sequences**: [FASTA files](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2019_Trachylepis_DNA-sequences.fas).
  - Weinell, Jeffrey L, & Daniel J Paluh, Amber L Singh, and David C Blackburn, 2019. *Myersophis alpestris* (Myers’ Mountain Snake). Reproduction. *Herpetological Review*. 50(1) 164–165.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019a_Myersophis-alpestris_reproduction_HerpReview.pdf).
    - **Add Link to CT Scan**
