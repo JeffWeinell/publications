@@ -1,7 +1,7 @@
 ## Jeff Weinell
  Publications and data
  
- *Last update 11 February 2021*
+ *Last update 12 February 2021*
 
 
 ### 2021
@@ -14,8 +14,13 @@
  - Weinell, Jeffrey L, & Daniel J Paluh, Cameron D Siler, Rafe M Brown. 2020. A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from the Philippines. *Copeia* 108(4), 907-923.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2020_Levitonius.pdf)
 ; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.gb)
-, [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.fas).
-   - **Add Link to CT Data**
+, [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.fas)
+; **CT Data**: [PNM 9872](https://www.morphosource.org/concern/biological_specimens/000S11368)
+, [KU 329413](https://www.morphosource.org/concern/biological_specimens/000S11367)
+, [KU 330056](https://www.morphosource.org/concern/biological_specimens/000123947)
+, [KU 323386](https://www.morphosource.org/concern/biological_specimens/000S11369)
+, [KU 203012](https://www.morphosource.org/concern/biological_specimens/000049617).
+
  - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. **Volume, Issue, Pages???**.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2020_Boiga-Biogeography_ZJLS_Advance-Article.pdf)
 ; **Supplementary Data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell_Boiga_ZJLS_zlaa090_SupplementaryData_GENBANK_IDs_CORRECTED.pdf).
@@ -36,7 +41,7 @@
 ### 2018
  - Leviton, Alan E, & Cameron D Siler, Jeffrey L Weinell, Rafe M Brown. 2018. Synopsis of the snakes of the Philippines: A synthesis of data from biodiversity repositories, field studies, and the literature. *Proceedings of the California Academy of Sciences, Series 4* 64(14), 399-568.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Leviton-et-al_2018_SynopsisPhilippineSnakes.pdf).
- - Weinell, Jeffrey L, & Rafe M Brown. 2018. Discovery of an old, archipelago-wide, endemic radiation of Philippine snakes. *Molecular phylogenetics and evolution* 119, 144-150.
+ - Weinell, Jeffrey L, & Rafe M Brown. 2018. Discovery of an old, archipelago-wide, endemic radiation of Philippine snakes. *Molecular Phylogenetics and Evolution* 119, 144-150.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Brown_2018_Cyclocorinae.pdf).
    - **Add Link to Sequence Data**
  - Weinell, Jeffrey L, & Aaron M Bauer. 2018. Systematics and phylogeography of the widely distributed African skink *Trachylepis varia* species complex. *Molecular Phylogenetics and Evolution* 120, 103–117.
