@@ -1,0 +1,483 @@
+LOCUS       MN166284                 646 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Levitonius mirus voucher KU 305488 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MN166284
+VERSION     MN166284.1  GI:1899341682
+KEYWORDS    .
+SOURCE      mitochondrion Levitonius mirus (Waray dwarf burrowing snake)
+  ORGANISM  Levitonius mirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Levitonius.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 646)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /organism="Levitonius mirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 305488"
+                     /db_xref="taxon:2769537"
+     gene            <1..>646
+                     /gene="cytb"
+     CDS             <1..>646
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="QNO58640.1"
+                     /db_xref="GI:1899341683"
+                     /translation="ANINLAFSSVIHITRDIPYGWIMQNLHSIGASMFFICIYIHIAR
+                     GIYYGLYLNKEMWLSGVILLIILMATSFFGYVLPWGQMSFWAATVITNLLTAIPYLGS
+                     TMTTWLWGGFSINDPTLTRFFALHFILPFTIISVTSIHILLLHNEGSNNPLGTNPNID
+                     KIPIHPYHSYKDMLMIIMLITSTFMVISFIPNIFNDPENFSKANPLTTPQHIKPE"
+ORIGIN     
+        1 agctaacatc aacttagcct tctcctcagt aatccatatc acacgagata tcccctatgg
+       61 atgaattata caaaatttac attcaatcgg agcatctata ttcttcatct gcatctatat
+      121 tcatatcgca cggggtatct actacgggtt gtatctaaat aaagaaatat gactatcagg
+      181 agtcatcctt ttaattatcc taatagccac ctcatttttt ggctatgtcc taccatgagg
+      241 ccaaatatca ttctgagcag caaccgtaat cactaaccta ttaactgcaa tcccttacct
+      301 cggttccacc atgactactt gattatgggg cggattctca atcaacgacc ccacactcac
+      361 ccgattcttt gccttacact ttatcttacc attcactatt atttcagtaa cctcaattca
+      421 catccttcta ttacacaatg aaggctccaa taacccatta ggtactaacc caaatattga
+      481 taaaattcca atccatccat atcactccta caaagatata ttaataatta ttatactgat
+      541 tacatcaaca tttatagtta tctcattcat ccctaatatc tttaatgacc cagaaaactt
+      601 ctcaaaagcc aacccattaa ctacaccaca acacattaaa ccagaa
+//
+LOCUS       MN166285                 682 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Levitonius mirus voucher KU 311281 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MN166285
+VERSION     MN166285.1  GI:1899341684
+KEYWORDS    .
+SOURCE      mitochondrion Levitonius mirus (Waray dwarf burrowing snake)
+  ORGANISM  Levitonius mirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Levitonius.
+REFERENCE   1  (bases 1 to 682)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 682)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..682
+                     /organism="Levitonius mirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 311281"
+                     /db_xref="taxon:2769537"
+     gene            <1..>682
+                     /gene="cytb"
+     CDS             <1..>682
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="QNO58641.1"
+                     /db_xref="GI:1899341685"
+                     /translation="STWWNFGSMLLTCLTMQITTGFFLAIHYTANINLAFSSVIHMTR
+                     DIPYGWIMQNLHSIGASMFFICIYTHIARGIYYGLYLNKEVWLSGIILLIILMATSFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGITMTTWLWGGFSINDPTLTRFFALHFILPF
+                     IIISMTSIHILLLHNQGSNNPLGTNPNIDKIPIHPYHSYKDMLMIITLITLMFMIISF
+                     TPNILNDPE"
+ORIGIN     
+        1 tctacatgat gaaatttcgg ctctatacta ctaacctgtc taaccataca aatcacaaca
+       61 ggtttcttcc tagcaattca ctacacagct aatatcaact tagccttctc ctcagtaatc
+      121 catataacac gagatattcc atatgggtgg atcatacaga atctacactc aatcggagca
+      181 tctatattct ttatttgtat ttatactcat atcgcacggg gtatttacta cggactatac
+      241 ctcaataaag aagtgtgatt atcgggcatc atcctattga tcattttaat agccacttca
+      301 ttcttcggat atgttctacc atgaggccaa atatcattct gagcggcaac cgtgattacc
+      361 aacctgctaa ctgcaatccc gtacctcggt attaccataa caacttggtt gtggggcgga
+      421 ttctcaatca acgaccccac actcacccgg ttcttcgccc tacacttcat cttaccgttc
+      481 attattatct caataacctc aattcacatc ctacttctac ataatcaagg ctctaataac
+      541 cccctgggta ctaacccaaa catcgataaa atcccaatcc acccatacca ctcctacaaa
+      601 gatatactaa taattatcac actaattaca ttaatattta taattatctc atttacccca
+      661 aacatcctca acgacccaga aa
+//
+LOCUS       MN166286                1012 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Oxyrhabdium leporinum voucher KU 303287 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MN166286
+VERSION     MN166286.1  GI:1899341686
+KEYWORDS    .
+SOURCE      mitochondrion Oxyrhabdium leporinum
+  ORGANISM  Oxyrhabdium leporinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Oxyrhabdium.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Oxyrhabdium leporinum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 303287"
+                     /db_xref="taxon:186594"
+     gene            <1..>1012
+                     /gene="cytb"
+     CDS             <1..>1012
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="QNO58642.1"
+                     /db_xref="GI:1899341687"
+                     /translation="STWWNFGSMLLTCLMLQTTTGFFLAIHYTANINLAFHSVIHITR
+                     DVPYGWIMQNTHAIGASMFFICIYIHIARGIYYGLYLNKEVWLSGVTLLMILMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTMLTTWLWGGFSINNPTLTRFFALHFILPF
+                     IIISMSLIHIMLLHNEGSSNPLGTNSDIDKIPIHPYHSYKDMLMMTILITTMLIILSF
+                     TPNLFNDPENFSKANPLITPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSIAILIT
+                     VPFTHMAHVRSTTFRPLTQLMFWTLIATFITITWTATKPVEPPFTIIGQTTSILYFSF
+                     FIM"
+ORIGIN     
+        1 tccacttgat gaaactttgg ctccatacta ttaacctgct taatactaca aaccaccaca
+       61 ggtttcttcc tagcaattca ctatacagcc aatatcaatc tggcctttca ctcagtaatt
+      121 catattacac gagatgtacc ctacggctga attatacaaa atactcacgc aatcggcgca
+      181 tctatatttt tcatctgtat ttatatccac attgcacgtg gaatctatta cggattatac
+      241 ctaaataaag aagtctgatt gtcaggagtc actctcctaa taatcctgat agccacagcc
+      301 tttttcggat acgtcctgcc atgaggacaa atatcattct gagcagcaac agtaatcact
+      361 aatctactga ccgctatccc ctacctaggg accatattaa caacctgatt atgaggtgga
+      421 ttttcaatca acaacccaac actcacccgg ttcttcgccc tacattttat cctcccattt
+      481 atcattatct caatatcctt aattcatatt atattattac ataacgaagg ttctagcaac
+      541 ccccttggaa ccaactcaga cattgacaaa atcccaattc atccatacca ttcctataaa
+      601 gatatactta taataaccat cctaatcaca accatactga tcattctctc attcactcca
+      661 aatctattta acgacccaga aaacttctca aaagctaacc cactcattac cccccaacac
+      721 attaaaccag aatggtactt cctatttgcc tacggaatcc tacgatctat ccccaataaa
+      781 ttaggaggga cattagcatt actaatatct attgccatcc taattacagt accatttaca
+      841 catatagccc acgttcgatc tacaaccttc cgtccactta cacaacttat attttgaaca
+      901 ttaatcgcca ctttcatcac cattacatgg actgccacta agcccgtgga acccccattc
+      961 accatcattg gtcaaacaac ctccatttta tatttctcat tcttcatcat aa
+//
+LOCUS       MN166287                 630 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Oxyrhabdium modestum voucher KU 321722 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MN166287
+VERSION     MN166287.1  GI:1899341688
+KEYWORDS    .
+SOURCE      mitochondrion Oxyrhabdium modestum (Philippine shrub snake)
+  ORGANISM  Oxyrhabdium modestum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Oxyrhabdium.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /organism="Oxyrhabdium modestum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 321722"
+                     /db_xref="taxon:2056561"
+     gene            <1..>630
+                     /gene="cytb"
+     CDS             <1..>630
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="QNO58643.1"
+                     /db_xref="GI:1899341689"
+                     /translation="ADINLAFHSVIHITRDVPYGWTMQNIHAIGASMFFICLYIHIAR
+                     GIYYGSYLNKEVWLSGVTLLVTLMATAFFGYVLPWGQMSFWAATVITNLLTAIPYLGS
+                     TLTTWLWGGFSINNPTLTRFFALHFILPFIIISMSLIHITLLHNEGSSNPLGTNSDID
+                     KIPIHPYHSYKDMLMMSMLITITLTILSFTPDLFNDPENFSKANPLITP"
+ORIGIN     
+        1 agccgatatt aacttagcct tccactccgt aattcacatt acacgagatg taccttatgg
+       61 ctgaactata caaaacattc acgcaatcgg cgcatctata ttttttattt gcctttacat
+      121 ccacattgca cgtgggattt actacggatc ttacttaaat aaagaagtct gattatccgg
+      181 ggttaccctt ttagtaaccc ttatagctac agcctttttt ggatacgtcc ttccatgagg
+      241 acaaatatcc ttttgagcag caacagtaat cactaaccta ttaaccgcca tcccctacct
+      301 cggatccaca ttaacaacct gactatgagg tggattctca attaataatc caacacttac
+      361 ccgcttcttt gccctacatt ttatcctccc ttttattatc atttcaatat ccttaattca
+      421 catcacatta cttcacaatg agggctctag taacccttta ggcaccaact cagacattga
+      481 taaaatccca attcacccct atcattccta caaagatata cttataataa gtatactaat
+      541 tacaattaca cttaccattc tttcattcac tcccgatcta tttaatgacc cagaaaattt
+      601 ctcaaaggct aaccccctta ttacaccaca
+//
+LOCUS       MN166288                 650 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Psammodynastes pulverulentus voucher KU 309922 cytochrome b (cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   MN166288
+VERSION     MN166288.1  GI:1899341690
+KEYWORDS    .
+SOURCE      mitochondrion Psammodynastes pulverulentus
+  ORGANISM  Psammodynastes pulverulentus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Psammodynastes.
+REFERENCE   1  (bases 1 to 650)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 650)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..650
+                     /organism="Psammodynastes pulverulentus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 309922"
+                     /db_xref="taxon:186598"
+     gene            <1..>650
+                     /gene="cytb"
+     CDS             <1..>650
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="QNO58644.1"
+                     /db_xref="GI:1899341691"
+                     /translation="AIHYTANVNLAFSSIIHITRDVPLGWTMQNLHAIGASMFFICIY
+                     THIARGLYYGSYLNKGVWLSGTALLIILMATAFFGYVLPWGQMSFWAATVITNLLTAI
+                     PYLGTSLTTWLWGGFSINDPTLTRFFALHFILPFTIISTSSIHIMLLHNEGSSNPLGT
+                     NSDIDKIPFHPYHSLKDTLMLTTLITTLFIVMSFAPNLLNDPENFSKANPMTTPQH"
+ORIGIN     
+        1 gcaattcact acacagctaa cgttaactta gccttctcat caattatcca catcacccga
+       61 gacgtacccc ttggatgaac aatacaaaac ctacacgcaa tcggcgcatc catattcttc
+      121 atctgcatct atacacacat tgcacgagga ctctactacg gctcttacct aaacaaaggg
+      181 gtatgactct caggaactgc cctattaatc atccttatag caacagcatt cttcggatat
+      241 gtcctgccat gaggacaaat atcattctga gcagcaacag taatcacaaa tttattaact
+      301 gcaatccctt accttggaac ctccttaaca acatgattgt gggggggttt ttccatcaac
+      361 gacccaaccc taacccgttt ctttgcccta catttcatcc tacctttcac cattatctct
+      421 acatcatcaa ttcacatcat gcttcttcac aacgaaggat caagcaaccc cctcggaaca
+      481 aactcagaca tcgacaaaat ccccttccac ccataccact ctctcaaaga cacattaata
+      541 ctcaccacac taatcacaac actatttatc gttatatcat ttgcccccaa cctactcaac
+      601 gacccagaaa acttctcaaa agccaacccc ataactacac cacaacacat
+//
+LOCUS       MN166281                 545 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Levitonius mirus voucher KU 305488 oocyte maturation factor mos
+            (C-mos) gene, partial cds.
+ACCESSION   MN166281
+VERSION     MN166281.1  GI:1899341676
+KEYWORDS    .
+SOURCE      Levitonius mirus (Waray dwarf burrowing snake)
+  ORGANISM  Levitonius mirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Levitonius.
+REFERENCE   1  (bases 1 to 545)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 545)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..545
+                     /organism="Levitonius mirus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 305488"
+                     /db_xref="taxon:2769537"
+     gene            <1..>545
+                     /gene="C-mos"
+     mRNA            <1..>545
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>545
+                     /gene="C-mos"
+                     /codon_start=2
+                     /product="oocyte maturation factor mos"
+                     /protein_id="QNO58637.1"
+                     /db_xref="GI:1899341677"
+                     /translation="LLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFWA
+                     ELNVARLDHNNVVHIVAASTYTPASQDSLGTVIMEYAGNCTLHHVIYGTGYLTGNNND
+                     GLKCDHGFLSIAQAVIYSCDIVAGLLFLHSQLIVHLDLKPANIFITEHNVCKIGDFGC
+                     SQKLEDSESSGLHLYQGGTYT"
+ORIGIN     
+        1 tctcctgaat ctcctgggct ctggtgggtt tggttctgtc tacaaggcaa cttaccacgg
+       61 agctacagtg gctgtaaaac aagtgaagag atgcagtaag aaccatttgg catcaaggca
+      121 aagcttctgg gcagaactaa atgtagcacg tcttgaccat aacaatgtgg tacacatagt
+      181 agctgctagc acatataccc ctgctagtca ggatagtttg ggtaccgtaa ttatggaata
+      241 tgcaggtaat tgcactctac atcatgttat ctatgggact ggttatttaa caggaaataa
+      301 caatgatggc cttaaatgtg accatgggtt tttgagtata gctcaggctg tgatttactc
+      361 ctgcgatatt gtggcagggt tactgtttct ccattctcag ttaattgtgc atctggattt
+      421 aaaacctgct aacatattca tcacagaaca taatgtttgt aagattggag actttggatg
+      481 ctcccaaaag ctagaagaca gcgaatcttc aggactacat ctttatcaag ggggaacata
+      541 cacac
+//
+LOCUS       MN166282                 538 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Levitonius mirus voucher KU 311281 oocyte maturation factor mos
+            (C-mos) gene, partial cds.
+ACCESSION   MN166282
+VERSION     MN166282.1  GI:1899341678
+KEYWORDS    .
+SOURCE      Levitonius mirus (Waray dwarf burrowing snake)
+  ORGANISM  Levitonius mirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Levitonius.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Levitonius mirus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 311281"
+                     /db_xref="taxon:2769537"
+     gene            <1..>538
+                     /gene="C-mos"
+     mRNA            <1..>538
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>538
+                     /gene="C-mos"
+                     /codon_start=2
+                     /product="oocyte maturation factor mos"
+                     /protein_id="QNO58638.1"
+                     /db_xref="GI:1899341679"
+                     /translation="LLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFWA
+                     ELNVARLDHNNVVHIVAASTYTPASQDSLGTVIMEYAGNCTLHHVIYGTGYLTGNNND
+                     GLKCDHGFLSIAQAVIYSCDIVAGLLFLHSQLIVHLDLKPANIFITEHNVCKIGDFGC
+                     SQKLEDSESSGLHLYQGGT"
+ORIGIN     
+        1 tctcctgaat ctcctgggct ctggtgggtt tggttctgtc tacaaggcaa cttaccacgg
+       61 agctacagtg gctgtaaaac aagtgaagag atgcagtaag aaccatttgg catcaaggca
+      121 aagcttctgg gcagaactaa atgtagcacg tcttgaccat aacaatgtgg tacacatagt
+      181 agctgctagc acatataccc ctgctagtca ggatagtttg ggtaccgtaa ttatggaata
+      241 tgcaggtaat tgcactctac atcatgttat ctatgggact ggttatttaa caggaaataa
+      301 caatgatggc cttaaatgtg accatgggtt tttgagtata gctcaggctg tgatttactc
+      361 ctgcgatatt gtggcagggt tactgtttct ccattctcag ttaattgtgc atctggattt
+      421 aaaacctgct aacatattca tcacagaaca taatgtttgt aagattggag actttggatg
+      481 ctcccaaaag ctagaagaca gtgaatcttc aggactacat ctttatcaag ggggaaca
+//
+LOCUS       MN166283                 565 bp    DNA     linear   VRT 12-FEB-2021
+DEFINITION  Oxyrhabdium leporinum voucher KU 303287 oocyte maturation factor
+            mos (C-mos) gene, partial cds.
+ACCESSION   MN166283
+VERSION     MN166283.1  GI:1899341680
+KEYWORDS    .
+SOURCE      Oxyrhabdium leporinum
+  ORGANISM  Oxyrhabdium leporinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Cyclocoridae; Oxyrhabdium.
+REFERENCE   1  (bases 1 to 565)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from
+            the Philippines
+  JOURNAL   Copeia 108 (4), 907-923 (2020)
+  REMARK    DOI: 10.1643/CH2020110
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   Weinell,J.L., Paluh,D.J., Siler,C.D. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2019) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd.,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Oxyrhabdium leporinum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 303287"
+                     /db_xref="taxon:186594"
+     gene            <1..>565
+                     /gene="C-mos"
+     mRNA            <1..>565
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>565
+                     /gene="C-mos"
+                     /codon_start=2
+                     /product="oocyte maturation factor mos"
+                     /protein_id="QNO58639.1"
+                     /db_xref="GI:1899341681"
+                     /translation="LLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFWA
+                     ELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNNND
+                     SLKCYHGFLNIAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFVTEHNVCKIGDFGC
+                     SQKLEDSESSGLHLYQGGTYTHRAPELL"
+ORIGIN     
+        1 tctcctgaat ctcctgggct ctggtgggtt tggttctgtc tacaaagcaa cttaccacgg
+       61 agctacagtg gctgtaaaac aagtgaagag atgcagtaag aaccatttgg catcaaggca
+      121 aagcttctgg gcagaactaa atgtagcacg tcttgaccat aacaatgtgg tacacatagt
+      181 agctgctagc acatgtaccc ctgctagtca ggatagtttg ggtaccataa ttatggaata
+      241 tgcaggtaat tgcactctac atcatgttat ctatgggact ggttatttaa caggaaataa
+      301 caatgatagc cttaaatgtt accatgggtt tttgaatata gctcaggctg tcatttactc
+      361 ctgtgatatt gtggcagggt taatgtttct ccactctcag ttaattgtac atctggattt
+      421 aaaacctgct aacatattcg tcacagaaca taatgtttgt aagattggag actttggatg
+      481 ctcccaaaag ctagaagata gtgaatcttc aggactacat ctttatcaag ggggaacata
+      541 cacacatcgt gctcctgaac ttctt
+//
