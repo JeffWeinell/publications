@@ -15,7 +15,7 @@
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2020_Levitonius.pdf)
 ; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.gb)
 , [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.fas)
-; **CT Data**: [PNM 9872](https://www.morphosource.org/concern/biological_specimens/000S11368)
+; **CT Scans**: [PNM 9872](https://www.morphosource.org/concern/biological_specimens/000S11368)
 , [KU 329413](https://www.morphosource.org/concern/biological_specimens/000S11367)
 , [KU 330056](https://www.morphosource.org/concern/biological_specimens/000123947)
 , [KU 323386](https://www.morphosource.org/concern/biological_specimens/000S11369)
@@ -37,7 +37,7 @@
 ; **DNA sequences**: [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2019_Trachylepis_DNA-sequences.fas).
  - Weinell, Jeffrey L, & Daniel J Paluh, Amber L Singh, and David C Blackburn, 2019. *Myersophis alpestris* (Myers’ Mountain Snake). Reproduction. *Herpetological Review*. 50(1) 164–165.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019a_Myersophis-alpestris_reproduction_HerpReview.pdf).
-   - **Add Link to CT Scan**
+; **CT Scan**: [KU 203012](https://www.morphosource.org/concern/biological_specimens/000049617).
 
 ### 2018
  - Leviton, Alan E, & Cameron D Siler, Jeffrey L Weinell, Rafe M Brown. 2018. Synopsis of the snakes of the Philippines: A synthesis of data from biodiversity repositories, field studies, and the literature. *Proceedings of the California Academy of Sciences, Series 4* 64(14), 399-568.
