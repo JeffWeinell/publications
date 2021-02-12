@@ -17,9 +17,9 @@
 , [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.fas)
 ; **CT Scans**: [PNM 9872](https://www.morphosource.org/concern/biological_specimens/000S11368)
 , [KU 329413](https://www.morphosource.org/concern/biological_specimens/000S11367)
-, [KU 330056](https://www.morphosource.org/concern/biological_specimens/000123947)
+, [KU 330056](https://www.morphosource.org/concern/biological_specimens/000S11370)
 , [KU 323386](https://www.morphosource.org/concern/biological_specimens/000S11369)
-, [KU 203012](https://www.morphosource.org/concern/biological_specimens/000049617).
+, [KU 203012](https://www.morphosource.org/concern/biological_specimens/000S12650).
 
  - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. **Volume, Issue, Pages???**.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2020_Boiga-Biogeography_ZJLS_Advance-Article.pdf)
@@ -37,7 +37,7 @@
 ; **DNA sequences**: [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2019_Trachylepis_DNA-sequences.fas).
  - Weinell, Jeffrey L, & Daniel J Paluh, Amber L Singh, and David C Blackburn, 2019. *Myersophis alpestris* (Myers’ Mountain Snake). Reproduction. *Herpetological Review*. 50(1) 164–165.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2019a_Myersophis-alpestris_reproduction_HerpReview.pdf).
-; **CT Scan**: [KU 203012](https://www.morphosource.org/concern/biological_specimens/000049617).
+; **CT Scan**: [KU 203012](https://www.morphosource.org/concern/biological_specimens/000S12650).
 
 ### 2018
  - Leviton, Alan E, & Cameron D Siler, Jeffrey L Weinell, Rafe M Brown. 2018. Synopsis of the snakes of the Philippines: A synthesis of data from biodiversity repositories, field studies, and the literature. *Proceedings of the California Academy of Sciences, Series 4* 64(14), 399-568.
