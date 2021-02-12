@@ -23,8 +23,9 @@
 
  - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. **Volume, Issue, Pages???**.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2020_Boiga-Biogeography_ZJLS_Advance-Article.pdf)
-; **Supplementary Data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell_Boiga_ZJLS_zlaa090_SupplementaryData_GENBANK_IDs_CORRECTED.pdf).
-   - **Add Link to Sequence Data**
+; **Supplementary Data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell_Boiga_ZJLS_zlaa090_SupplementaryData_GENBANK_IDs_CORRECTED.pdf)
+; **DNA sequences**: [FASTA files](https://github.com/JeffWeinell/Boiga).
+
  - Som, Hannah E, & L Lee Grismer, Jesse L Grismer, Perry L Wood Jr, Evan SH Quah, Rafe M Brown, Arvin C Diesmos, Jeffrey L Weinell, Bryan L Stuart. 2020. A new *Liopeltis* Fitzinger, 1843 (Squamata: Colubridae) from Pulau Tioman, Peninsular Malaysia. *Zootaxa* 4766(3), 472-484.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Som-et-al_2020_Liopeltis-tiomanica.pdf).
 
