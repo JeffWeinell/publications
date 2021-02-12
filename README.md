@@ -12,8 +12,9 @@
 
 ### 2020
  - Weinell, Jeffrey L, & Daniel J Paluh, Cameron D Siler, Rafe M Brown. 2020. A New, Miniaturized Genus and Species of Snake (Cyclocoridae) from the Philippines. *Copeia* 108(4), 907-923.
-**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2020_Levitonius.pdf).
-   - **Add Link to Sequence Data**
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2020_Levitonius.pdf)
+; ##DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.gb)
+, [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2020_Levitonius_DNA-sequences.fas).
    - **Add Link to CT Data**
  - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. **Volume, Issue, Pages???**.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2020_Boiga-Biogeography_ZJLS_Advance-Article.pdf)
