@@ -1,0 +1,1198 @@
+LOCUS       MG458749                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus lineatus lineatus voucher KU328836 cytochrome b (Cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   MG458749
+VERSION     MG458749
+KEYWORDS    .
+SOURCE      mitochondrion Cyclocorus lineatus lineatus
+  ORGANISM  Cyclocorus lineatus lineatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Cyclocorus lineatus lineatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="lineatus"
+                     /specimen_voucher="KU328836"
+                     /db_xref="taxon:2056554"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLACLALQTATGFFLAIHYTANINLAFSSIIHITR
+                     DVPYGWIMQNLHAIGASLFFICVYIHIARGLYYGSYLNKEVWLSGVTLLIILMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTSLTTWLWGGFSINDPTLTRFFALHFILPF
+                     TIISMSSIHIILLHNEGSSNPLGTNSDIDKIPFHPYHSYKDMLMFTIMTTLVFIVLSF
+                     TPDLLNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSVSILIT
+                     MPFTHTSNIRSMTFRPMAQLMFWTLIATFITITWTATKPVEPPYTIISQTTSTLYFMF
+                     FMM"
+ORIGIN     
+        1 tccacctgat gaaactttgg ctctatatta ctagcctgct tagccttaca aactgcaact
+       61 gggttcttcc tagccatcca ttataccgct aacatcaacc tagctttctc ctctattatc
+      121 cacattacac gagatgtccc ttacggctga atcatacaaa atcttcacgc aatcggcgca
+      181 tccctattct tcatctgcgt atacatccac atcgcacgcg gtctttatta cgggtcttac
+      241 ctaaacaaag aagtttgatt atcaggggta acactactaa ttatccttat agcaacagct
+      301 ttcttcggat atgtcttacc atgaggacaa atatcattct gggcagcaac agtaattact
+      361 aacctactaa ccgcaatccc atacttagga acctccctaa caacgtgact ctgaggcgga
+      421 ttctcaatca atgaccccac actaacccgc ttctttgccc tacactttat tctcccattc
+      481 accatcatct ccatatcttc aatccacatc attctcctac acaacgaagg ctccagcaac
+      541 ccgctcggaa ccaactccga cattgacaaa attccattcc acccctacca ctcctacaaa
+      601 gacatactaa tattcaccat tataaccact ttagtattta ttgtcctatc attcacccca
+      661 gatcttctca acgacccaga aaacttctca aaggccaacc ccctagtcac accacaacac
+      721 attaaacccg aatgatactt cctattcgcc tacggtatct tacgctcaat ccctaacaaa
+      781 ctaggaggga ccttggccct actaatgtcc gtctccatcc taatcacaat accgttcaca
+      841 cacacctcca atatccgatc catgaccttc cgacctatag cacaactcat attctgaaca
+      901 ctaattgcca cattcatcac cattacatga acagcaacca aacctgtaga gccaccctac
+      961 accattatca gccaaacaac ctctacccta tactttatgt tcttcataat aa
+//
+LOCUS       MG458750                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus lineatus lineatus voucher KU329413 cytochrome b (Cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   MG458750
+VERSION     MG458750
+KEYWORDS    .
+SOURCE      mitochondrion Cyclocorus lineatus lineatus
+  ORGANISM  Cyclocorus lineatus lineatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Cyclocorus lineatus lineatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="lineatus"
+                     /specimen_voucher="KU329413"
+                     /db_xref="taxon:2056554"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLALQTATGFFLAIHYTANINLAFSSIIHITR
+                     DVPYGWIMQNLHAIGASMFFICVYIHIARGLYYGSYLNKEVWLSGVTLLIILMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTSLTTWLWGGFSINDPTLTRFFALHFILPF
+                     AIISMSSIHIILLHNKGSSNPLGTNSDIDKIPFHPYHSYKDMLMFTIMITLMFIILSF
+                     TPDLLNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSVSILIT
+                     MPFTHTSNIRSMAFRPMTQLMFWTLIATFITITWAATKPVEPPYTIISQTTSILYFTF
+                     FIM"
+ORIGIN     
+        1 tccacctgat gaaactttgg ctccatactt ctaacctgct tagccttaca gaccgcaacc
+       61 gggttttttc tagcaatcca ttacaccgct aacattaacc tagccttctc ctctatcatc
+      121 cacattacac gagatgtccc ctacggctga atcatacaaa atcttcacgc aatcggcgca
+      181 tccatattct tcatttgcgt atacattcac atcgcacggg gcctttatta tgggtcctac
+      241 ctaaacaaag aagtttgatt atcaggggta acactactaa tcatcctcat agcaacagct
+      301 ttctttggat acgtattacc atgaggacaa atatccttct gggcagcaac agtaattact
+      361 aacctactaa ccgcaattcc atacttaggc acctccctaa caacatggct ttgaggtggg
+      421 ttctcaatca acgaccccac actaacccga ttctttgcct tacattttat tcttccattc
+      481 gctatcatct ctatatcctc tatccacatc attctcttgc ataacaaggg ctccagcaac
+      541 cccctcggaa ctaactctga cattgacaaa atcccgttcc atccttatca ctcctacaaa
+      601 gacatgctta tatttaccat tataatcacc ttaatattca ttatcctatc attcacccca
+      661 gatctgctca atgacccaga aaacttctca aaagctaatc ctctagttac accccaacac
+      721 attaaacccg aatggtactt cctattcgct tatggaatcc tacgctcaat tcccaacaaa
+      781 ctaggaggaa ccctagccct acttatgtca gtctcaattc taatcacaat accattcaca
+      841 cacacttcca acatccgatc catagccttc cgccccataa cacaacttat gttctgaaca
+      901 ctaattgcca cattcattac cattacatga gcagcaacta agccggtaga accaccctac
+      961 acaatcatta gccaaacaac ctccatctta tactttacat ttttcatcat aa
+//
+LOCUS       MG458751                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorinae sp. voucher KU337269 cytochrome b (Cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   MG458751
+VERSION     MG458751
+KEYWORDS    .
+SOURCE      mitochondrion Cyclocorinae sp.
+  ORGANISM  Cyclocorinae sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; unclassified Colubroidea.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Cyclocorinae sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU337269"
+                     /db_xref="taxon:2056566"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLTLQITTGFFLAIHYTANINLAFSSVIHMTR
+                     DIPYGWIMQNLHSIGASMFFICIYTHIARGIYYGLYLNKEVWLSGVILLIILMATSFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGITMTTWLWGGFSINDPTLTRFFALHFILPF
+                     IIISMTSIHILLLHNQGSNNPLGTNPNIDKIPIHPYHSYKDMLMIITLITLMFMIISF
+                     TPNILNDPENFSKANPLTTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSIIILIT
+                     IPFTHTSRTRSMTFRPMMQLTFWALITVFIIITWTATKPVEPPFTIIGQVTSILYFSF
+                     FLM"
+ORIGIN     
+        1 tctacatgat gaaatttcgg ctctatacta ctaacctgtc taaccctaca aatcacaaca
+       61 ggcttcttct tagcaattca ctacacagct aatatcaact tagctttctc ctcagtaatc
+      121 catataacac gagatattcc atatggatga atcatacaga atctacactc aatcggagca
+      181 tctatattct ttatttgtat ttatactcat atcgcacgag gtatttacta cggattatac
+      241 ctcaataaag aagtatgatt atcaggcgtc atcctattaa tcattttaat agctacttca
+      301 ttcttcggat acgtcctacc atgaggccaa atatcattct gagcagcaac cgtaattacc
+      361 aatctactaa ctgcaatccc atacctcggt attaccataa caacttgatt gtgaggcgga
+      421 ttctcaatca acgaccccac actcacccga ttcttcgccc tacacttcat cttaccgttc
+      481 attattatct caataacctc aattcacatc cttctcctac ataatcaagg ctctaataac
+      541 cccctgggta ctaacccaaa catcgataaa atcccaatcc acccatacca ctcctacaaa
+      601 gatatactaa taattatcac actaattaca ctaatattta taattatctc atttacccca
+      661 aacatcctca acgacccaga aaacttctca aaagccaacc cactaactac accacaacac
+      721 attaaaccag agtgatactt cttatttgcc tatggtatcc tacgatcaat cccaaataaa
+      781 cttgggggaa ccttagccct attaatatct attattatcc ttatcaccat tccatttaca
+      841 cacacttccc gcacacgatc cataacattc cgccccataa tacaactcac attctgagca
+      901 ttaatcactg tcttcattat catcacatga actgccacaa aaccggtaga gccaccattc
+      961 acaattattg gccaagtaac ctccatttta tacttctcat ttttccttat aa
+//
+LOCUS       MG458752                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Myersophis alpestris voucher KU308684 cytochrome b (Cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MG458752
+VERSION     MG458752
+KEYWORDS    .
+SOURCE      mitochondrion Myersophis alpestris
+  ORGANISM  Myersophis alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Myersophis.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Myersophis alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU308684"
+                     /db_xref="taxon:1545037"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLACLMLQMTTGFFLAIHYTANINLAFHSIVHITR
+                     DVPCGWTMQNLHAISASMFFICVYTHIARGLYYGSYLNKEVWMSGITLLITLMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTTLTTWLWGGFSINDPTLTRFFALHFILPF
+                     TIISMSSIHIMLLHNKGSNNPLGTNSDIDKIPLHPYHTYKDMLMLTTLIVLTLTILSF
+                     TPNLFNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTVALLMSIIILVT
+                     MPLTHTSITQPMTFRPLAQLMFWTLVATFITITWTATKPVEPPFTIISQTASTLYFMF
+                     FIM"
+ORIGIN     
+        1 tctacctgat gaaactttgg ctccatactg ttagcctgtt taatactaca aataacaact
+       61 gggtttttcc tagcaatcca ctacacagct aatatcaacc tagcctttca ctctatcgtc
+      121 cacatcacac gagatgtacc ctgcggctga acaatacaaa accttcatgc aatcagcgca
+      181 tccatatttt tcatctgtgt ctacacacac atcgcacgag gactttacta cggctcctac
+      241 ttaaataaag aagtctgaat atccggaatc accctcctaa ttactctcat agccacagcc
+      301 tttttcgggt atgtcctacc atgaggacaa atatcattct gagcagcaac cgtgatcacc
+      361 aacctactga ctgcaatccc atacctagga acaacactga ccacctgact atggggcggg
+      421 ttctcaatca atgacccaac actcacccga ttcttcgccc ttcactttat tcttcccttc
+      481 accatcattt caatatcctc aatccacatt atactcctac acaacaaagg ctccaacaac
+      541 ccactaggga ccaactcaga cattgacaaa atcccactac acccatacca cacctacaaa
+      601 gacatactca tactaaccac tcttatcgtt ctaacactca ccattctttc cttcaccccc
+      661 aacctattta acgacccaga aaacttctca aaagccaacc ccctggtcac accacaacac
+      721 attaagccag agtgatactt tctattcgct tacggaattc tacgatctat ccccaacaaa
+      781 cttggaggaa ccgtggccct acttatatca atcattatcc tagtcaccat accacttaca
+      841 cacacctcca ttacccaacc aataacattt cgcccactgg cacaacttat attctgaaca
+      901 ctagtcgcca cattcatcac tatcacatga acagccacta agccagtaga accaccattc
+      961 accattatca gccaaacagc ttccactcta tacttcatat tcttcatcat aa
+//
+LOCUS       MG458753                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus nuchalis nuchalis voucher KU315163 cytochrome b (Cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   MG458753
+VERSION     MG458753
+KEYWORDS    .
+SOURCE      mitochondrion Cyclocorus nuchalis nuchalis
+  ORGANISM  Cyclocorus nuchalis nuchalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Cyclocorus nuchalis nuchalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="nuchalis"
+                     /specimen_voucher="KU315163"
+                     /db_xref="taxon:2056557"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLACLALQTVTGFFLAIHYTANINLAFSSVIHILR
+                     DVPYGWIMQNLHTIGASVFFICVYIHIARGLYYGSYLNKEVWLSGVTLLIILMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTSLTTWLWGGFSINDPTLTRFFALHFILPF
+                     TIISMSSIHIILLHNEGSSNPLGTNPDIDKIPFHPYHSYKDMLMFAMMITLMFLILSF
+                     TPDLLNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSVSILIT
+                     MPYTHTSHTRSMTFRPLMQLMFWTLIATFITITWAATKPVEPPYITISQTTSILYFMF
+                     FIM"
+ORIGIN     
+        1 tctacttgat gaaacttcgg ctccatacta ctagcctgcc tggccttaca aaccgtaacc
+       61 ggattcttct tggcaatcca ctacactgct aacattaacc tagctttctc ctctgtaatt
+      121 catattttac gagatgtacc ctacggctga atcatacaga acctacacac aatcggcgca
+      181 tccgtgtttt tcatctgcgt atatatccac atcgcacgag gcctctacta cggatcctac
+      241 ctaaataaag aagtctgact gtcaggagta accctattaa ttatccttat agcaacagct
+      301 ttcttcggat acgtcttacc atgaggacaa atatcattct gggcagcaac agtaattacc
+      361 aacctactaa ccgcaattcc atacttggga acctccctaa caacttgact ctgaggcgga
+      421 ttctcaatta atgatcccac actaacccga ttttttgccc tgcacttcat tctcccattc
+      481 accattatct ccatatcctc aatccacatc atccttctcc ataatgaagg ctccagcaat
+      541 ccccttggaa ctaacccaga tatcgacaaa atcccatttc acccctacca ctcctacaaa
+      601 gacatgctaa tattcgctat aataatcacc ctaatattcc ttatcttatc attcacccca
+      661 gacctgctta acgacccaga aaatttttca aaggctaacc cgctagttac accacaacac
+      721 attaaacccg aatgatactt cctattcgcc tacggcatcc tacgatccat ccctaataag
+      781 ttaggaggaa ccctagcctt actaatatct gtctccatcc taattacaat accatacaca
+      841 cacacctccc acacccgatc cataaccttc cgccccctaa tacaactcat attttgaacc
+      901 ctaatcgcca cattcatcac catcacatga gcagcaacta aacctgtaga accaccttac
+      961 atcactatca gccaaacaac ctccatccta tactttatat tctttatcat aa
+//
+LOCUS       MG458754                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus nuchalis nuchalis voucher KU321700 cytochrome b (Cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   MG458754
+VERSION     MG458754
+KEYWORDS    .
+SOURCE      mitochondrion Cyclocorus nuchalis nuchalis
+  ORGANISM  Cyclocorus nuchalis nuchalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Cyclocorus nuchalis nuchalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="nuchalis"
+                     /specimen_voucher="KU321700"
+                     /db_xref="taxon:2056557"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLACLALQTVTGFFLAIHYTANINLAFSSVIHILR
+                     DVPYGWIMQNLHTIGASVFFICVYIHIARGLYYGSYLNKEVWLSGVTLLIILMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTSLTTWLWGGFSINDPTLTRFFALHFILPF
+                     TIISMSSIHIILLHNEGSSNPLGTNPDIDKIPFHPYHSYKDMLMFAMMITLMFLILSF
+                     TPDLLNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSVSILIT
+                     MPYTHTSHTRSMTFRPLMQLMFWTLIATFITITWAATKPVEPPYITISQTTSILYFMF
+                     FIM"
+ORIGIN     
+        1 tctacttgat gaaacttcgg ctccatacta ctagcctgcc tggccttaca aaccgtaacc
+       61 ggattcttct tggcaatcca ctacactgct aacattaacc tagctttctc ctctgtaatt
+      121 catattttac gagatgtacc ctacggctga atcatacaga acctacacac aatcggcgca
+      181 tccgtgtttt tcatctgcgt atatatccac atcgcacgag gcctctacta cggatcctac
+      241 ctaaataaag aagtctgact gtcaggagta accctattaa ttatccttat agcaacagct
+      301 ttcttcggat acgtcttacc atgaggacaa atatcattct gggcagcaac agtaattacc
+      361 aacctactaa ccgcaattcc atacttggga acctccctaa caacttgact ctgaggcgga
+      421 ttctcaatta atgatcccac actaacccga ttttttgccc tgcacttcat tctcccattc
+      481 accattatct ccatatcctc aatccacatc atccttctcc ataatgaagg ctccagcaat
+      541 ccccttggaa ctaacccaga tatcgacaaa atcccatttc acccctacca ctcctacaaa
+      601 gacatgctaa tattcgctat aataatcacc ctaatattcc ttatcttatc attcacccca
+      661 gacctgctta acgacccaga aaatttttca aaggctaacc cgctagttac accacaacac
+      721 attaaacccg aatgatactt cctattcgcc tacggcatcc tacgatccat ccctaataag
+      781 ttaggaggaa ccctagcctt actaatatct gtctccatcc taattacaat accatacaca
+      841 cacacctccc acacccgatc cataaccttc cgccccctaa tacaactcat attttgaacc
+      901 ctaatcgcca cattcatcac catcacatga gcagcaacta aacctgtaga accaccttac
+      961 atcactatca gccaaacaac ctccatccta tactttatat tctttatcat aa
+//
+LOCUS       MG458755                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Oxyrhabdium leporinum leporinum voucher KU325975 cytochrome b
+            (Cytb) gene, partial cds; mitochondrial.
+ACCESSION   MG458755
+VERSION     MG458755
+KEYWORDS    .
+SOURCE      mitochondrion Oxyrhabdium leporinum leporinum
+  ORGANISM  Oxyrhabdium leporinum leporinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Lamprophiidae; Oxyrhabdium.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Oxyrhabdium leporinum leporinum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="leporinum"
+                     /specimen_voucher="KU325975"
+                     /db_xref="taxon:2056560"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLMLQTTTGFFLAIHYTANINMAFHSVIHITR
+                     DVPYGWIMQNIHAIGASMFFICIYIHIARGIYYGLYLNKEVWLSGVTLLMILMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGSTLTTWLWGGFSINNPTLTRFFALHFILPF
+                     IIISMSLIHIMLLHNEGSSNPLGTNSDIDKIPIHPYHSYKDMLMMTMLITIMLIILSF
+                     TPNLFNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSIVILIT
+                     MPFTHMAYVRSTTFRPLTQLMFWTLIATFITITWTATKPVEPPFTIIGQTTSILYFSF
+                     FIM"
+ORIGIN     
+        1 tccacttgat gaaactttgg ctccatacta ttaacctgct taatactaca aaccaccaca
+       61 ggtttcttcc tagcaattca ctatacagcc aatatcaata tggcctttca ctcagtaatt
+      121 cacattacac gagacgtacc ctacggctga attatacaaa atatccacgc aatcggcgca
+      181 tctatatttt tcatttgtat ttacattcac attgcacgtg gcatttatta tggtttatac
+      241 ctaaataaag aagtctgatt gtcaggagtc actctactaa taatccttat agccacagcc
+      301 ttttttggat atgtcctacc atgaggacaa atatccttct gagcagcaac agtaatcact
+      361 aatctactaa ctgccatccc ctatctagga tccacattaa caacttggtt atgaggcgga
+      421 ttctcaatca acaacccaac actcacccga ttcttcgctc tacattttat tcttccattc
+      481 atcattatct caatatcctt aattcacatc atactattac ataatgaggg ttctagcaac
+      541 ccccttggaa ctaactcaga cattgataaa atcccaatcc atccatacca ttcctacaaa
+      601 gatatactta taataaccat attaatcaca attatactta tcattctttc attcactcca
+      661 aatctattta atgacccaga aaacttctca aaagctaatc ccctcgttac tccccaacac
+      721 attaaaccag aatgatactt cctatttgcc tacggaatct tacgatctat ccccaataaa
+      781 ctaggaggaa cactagcatt attaatatcc attgtcatcc taattacaat gccatttaca
+      841 cacatagcct acgtccgatc tacaaccttc cgcccactta cacaacttat attttgaaca
+      901 ttaattgcta ctttcatcac catcacatga actgccacta aacccgtaga acccccattc
+      961 actatcattg gccaaacaac ctccatttta tacttctcat tcttcattat aa
+//
+LOCUS       MG458756                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Oxyrhabdium modestum voucher KU326678 cytochrome b (Cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MG458756
+VERSION     MG458756
+KEYWORDS    .
+SOURCE      mitochondrion Oxyrhabdium modestum (Philippine shrub snake)
+  ORGANISM  Oxyrhabdium modestum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Lamprophiidae; Oxyrhabdium.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Oxyrhabdium modestum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU326678"
+                     /db_xref="taxon:2056561"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLMLQTMTGFFLAIHYTADINLAFHSVVHITR
+                     DVPYGWIMQNIHAIGASMFFTCLYIHIARGIYYGSYLNKEVWLSGVTLLVTLMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGSTLTTWLWGGFSINNPTLTRFFALHFILPF
+                     IIISMSLIHITLLHNEGSNNPLGTNSDIDKIPIHPYHSYKDMFMMSMLITIMLTILSF
+                     TPDLFNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSIAILIT
+                     MPFTHMAYIRSTXFRPLTQLMFWMLIATFITITWTATKPVEPPFTIIGQTTSILYFLF
+                     FIM"
+ORIGIN     
+        1 tccacctgat gaaattttgg ctctatacta ttaacctgcc tcatactaca gaccataaca
+       61 ggcttcttcc tagcaatcca ctatacagcc gacattaact tagccttcca ctctgtagtc
+      121 cacattacac gagatgtacc ttatggttga atcatacaaa acattcacgc tatcggcgca
+      181 tcaatatttt ttacctgcct ttacatccac attgcacgtg gaatctacta cggatcctac
+      241 ttaaataaag aagtctgatt atccggagtc accctcctag taacccttat ggctacagcc
+      301 tttttcggat acgtcctccc atgaggacaa atatccttct gagcagcaac agtaatcact
+      361 aacctattaa ccgccatccc ttacctcgga tctacattaa caacatgact atggggcgga
+      421 ttctcaatta ataatccaac acttacccgc ttctttgccc tacattttat ccttcccttt
+      481 attatcattt caatatcctt aattcacatt acattacttc acaatgaggg ttctaacaat
+      541 cccttaggta ccaactcaga cattgataaa atcccaattc acccctatca ctcctacaaa
+      601 gatatattta taataagtat actaattaca atcatactta ccattctttc atttaccccc
+      661 gacctattta atgacccaga aaatttctca aaagctaacc cccttgttac cccccaacac
+      721 attaaaccag aatgatactt cctatttgcc tacgggattc tacgatctat ccctaataaa
+      781 ctaggaggga cattagccct actaatatcc attgccatcc taattaccat acccttcaca
+      841 catatagctt acatccgctc taccannttc cgcccactta cacaacttat attctgaata
+      901 ctaatcgcta ctttcatcac tattacatga acagccacta aaccagtaga acctccattc
+      961 accattattg gtcaaacaac ctccatccta tacttcttat tcttcattat aa
+//
+LOCUS       MG458757                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Hologerrhum philippinum voucher KU330056 cytochrome b (Cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MG458757
+VERSION     MG458757
+KEYWORDS    .
+SOURCE      mitochondrion Hologerrhum philippinum (Philippine stripe-lipped
+            snake)
+  ORGANISM  Hologerrhum philippinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Hologerrhum.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Hologerrhum philippinum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU330056"
+                     /db_xref="taxon:2056562"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLALQITTGFFLAIHYTANVNLAFSSIIHITR
+                     DVPYGWIMQNLHAIGASMFFICVYIHIARGLYYGLYLNKEVWLSGVTLLITLMATAFF
+                     GYVLPWGQMSFWAATVITNLLTAIPYLGTMLTTWLWGGFSINDPTLTRFFALHFILPF
+                     IIISLSSIHIMLLHNEGSSNPLGTNSDIDKIPFHPYHSYKDTLMLTILITTMFIILSF
+                     TPNLLNDPENFSKANPLVTPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSIAILIT
+                     MPFTHTSYIRSSTFRPFMQLMFWTLVATFMTITWAATKPVEPPYTAIGQMTSTLYFLF
+                     FFT"
+ORIGIN     
+        1 tctacttgat gaaactttgg ctctatatta ttaacctgtt tagccctaca aatcacaacc
+       61 ggcttcttcc tagcaatcca ttataccgcc aatgttaacc tagctttctc ctctattatc
+      121 catatcacac gagatgtgcc ctacgggtga atcatacaga accttcacgc aattggtgca
+      181 tctatattct ttatctgtgt atacatccac attgcacgag gactctacta cgggttatac
+      241 ctgaacaaag aagtttgact atccggtgtc acactactga tcaccctgat agcaacagcc
+      301 ttctttggat acgttctacc atggggacaa atatccttct gagcagcaac agtaatcaca
+      361 aacctattaa ctgcaattcc atacctagga accatactga caacatgact atggggtggc
+      421 ttctcaatca acgatcctac actcactcga ttcttcgccc tacacttcat tcttccattc
+      481 atcattattt cattatcctc aatccacatt atattattac acaacgaagg ctccagcaac
+      541 cctcttggaa ccaactcaga cattgacaaa atcccatttc acccttacca ctcctataaa
+      601 gacacactta tactaactat cctaattact acaatattta ttatcctatc attcacccca
+      661 aacttactaa atgacccaga aaacttctca aaagccaacc ccttagtcac accacaacac
+      721 attaaaccag aatgatactt cttatttgcc tacggcatcc tacgatcaat ccctaataag
+      781 ttaggaggaa cattagccct actaatatcc attgccatct taatcacaat gcccttcaca
+      841 cacacttctt acattcgatc ctcaaccttc cgcccattta tacaacttat attctgaaca
+      901 ctagttgcca ccttcataac cattacatga gcagccacta aacctgtaga accaccatac
+      961 accgccatcg gtcaaataac ctccacttta tatttcctat tcttcttcac aa
+//
+LOCUS       MG458758                1012 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Hologerrhum philippinum voucher KU330752 cytochrome b (Cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   MG458758
+VERSION     MG458758
+KEYWORDS    .
+SOURCE      mitochondrion Hologerrhum philippinum (Philippine stripe-lipped
+            snake)
+  ORGANISM  Hologerrhum philippinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Hologerrhum.
+REFERENCE   1  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1012)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1012
+                     /organism="Hologerrhum philippinum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU330752"
+                     /db_xref="taxon:2056562"
+     gene            <1..>1012
+                     /gene="Cytb"
+     CDS             <1..>1012
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /translation="STWWNFGSMLLTCLALQITTGFFLAIHYTANVNLAFSSIIHITR
+                     DVPCGWIMQNLHAIGASMFFVCVYIHIARGLYYGLYLNKEVWLSGVTLLITLMATAFF
+                     GYVLPWGQMSFWAATVITNLLTTIPYLGITLTTWLWGGFSINDPTLTRFFALHFILPF
+                     IIISLSSIHIMLLHNEGSSNPLGTNSDIDKIPFHPYHSYKDTLMLTILITTMFIILSF
+                     TPNLLNDPENFSKANPLITPQHIKPEWYFLFAYGILRSIPNKLGGTLALLMSIAILIT
+                     MPFTHTSYIRSSTFRPLMQLTFWTLIATFMTITWAATKPVEPPYTTISQMTSTLYFLF
+                     FFM"
+ORIGIN     
+        1 tccacttgat gaaactttgg ctctatacta ctaacttgtt tagccctaca aatcacaaca
+       61 ggcttcttcc tagcaatcca ctataccgcc aatgttaacc tggccttctc atctattatt
+      121 cacattacac gagatgtacc ctgtggatga attatacaaa accttcatgc aattggcgca
+      181 tctatattct ttgtctgcgt ctatattcac atcgcacgag gactctatta cggattatac
+      241 ctaaataaag aagtttgatt atccggtgtc acactactaa ttaccttaat agcaacagcc
+      301 ttcttcggat acgttctacc atgaggacaa atatcctttt gagcagcaac agtaatcaca
+      361 aacctattaa ccacaattcc atacctagga atcacactaa caacatgact atgaggcgga
+      421 ttttcaatca acgacccaac actcacccgt ttctttgcct tacatttcat cctcccattt
+      481 atcattattt cactatcctc aattcatatc atacttttac acaatgaagg ctccagcaac
+      541 ccccttggaa ccaactcaga tattgataaa atcccatttc acccctacca ctcctacaaa
+      601 gacacactta tattaaccat tttaatcact acaatattca ttatcctatc attcacccca
+      661 aacttactaa atgatccgga aaacttctca aaagccaacc ctttaatcac accacaacac
+      721 attaaaccag aatgatattt cctatttgcc tacggcatcc tacgatcaat ccccaataaa
+      781 ttaggaggaa cattagccct attaatatct attgctatcc taatcacaat accattcaca
+      841 cacacctctt acattcgatc ctcgaccttc cgcccactca tgcaactcac attctgaaca
+      901 ctgattgcca ccttcatgac cattacatga gcagccacta aacctgtaga accaccctat
+      961 accactatca gccaaataac ctccacccta tacttcctat tctttttcat aa
+//
+LOCUS       MG458759                 567 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus lineatus lineatus voucher KU328836 oocyte maturation
+            factor mos (C-mos) gene, partial cds.
+ACCESSION   MG458759
+VERSION     MG458759
+KEYWORDS    .
+SOURCE      Cyclocorus lineatus lineatus
+  ORGANISM  Cyclocorus lineatus lineatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 567)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 567)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..567
+                     /organism="Cyclocorus lineatus lineatus"
+                     /mol_type="genomic DNA"
+                     /sub_species="lineatus"
+                     /specimen_voucher="KU328836"
+                     /db_xref="taxon:2056554"
+     gene            <1..>567
+                     /gene="C-mos"
+     mRNA            <1..>567
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>567
+                     /gene="C-mos"
+                     /codon_start=1
+                     /product="oocyte maturation factor mos"
+                     /translation="CLLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFW
+                     AELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNND
+                     GLKCDHGFLSIAQAVSYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFGC
+                     SQKLEDGESSGLHLYQAGTYTHRAPELLK"
+ORIGIN     
+        1 tgtctcctga atctcctggg ctctggtggg tttggttctg tctacaaggc aacttaccac
+       61 ggagctacag tggctgtaaa acaagtgaag agatgcagta agaaccattt ggcatcaagg
+      121 caaagcttct gggcagaact aaatgtagca cgtcttgacc ataacaatgt ggtacacata
+      181 gtagctgcta gcacatgtac ccctgctagt caggatagtt tgggtaccat aattatggaa
+      241 tatgcaggta attgcactct acatcatgtt atctatggga ctggttattt aacaggaaat
+      301 aacgatggcc ttaaatgtga ccatgggttt ttgagtatag ctcaggccgt cagttactcc
+      361 tgtgatattg tggcagggtt aatgtttctc cattctcagt taattgtgca tctggattta
+      421 aaacctgcta acatattcat cacagaacat aatgtttgta agattggaga ctttggatgc
+      481 tcccaaaagc tagaagatgg cgaatcttca ggactacatc tttatcaagc tggaacatac
+      541 acacatcgtg ctcctgaact tcttaaa
+//
+LOCUS       MG458760                 572 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorinae sp. voucher KU337269 oocyte maturation factor mos
+            (C-mos) gene, partial cds.
+ACCESSION   MG458760
+VERSION     MG458760
+KEYWORDS    .
+SOURCE      Cyclocorinae sp.
+  ORGANISM  Cyclocorinae sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; unclassified Colubroidea.
+REFERENCE   1  (bases 1 to 572)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 572)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..572
+                     /organism="Cyclocorinae sp."
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU337269"
+                     /db_xref="taxon:2056566"
+     gene            <1..>572
+                     /gene="C-mos"
+     mRNA            <1..>572
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>572
+                     /gene="C-mos"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="CLLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFW
+                     AELNVARLDHNNVVHIVAASTYTPASQDSLGTVIMEYAGNCTLHHVIYGTGYLTGNNN
+                     DGLKCDHGFLSIAQAVIYSCDIVAGLLFLHSQLIVHLDLKPANIFITEHNVCKIGDFG
+                     CSQKLEDSESSGLHLYQGGTYTHRAPELLK"
+ORIGIN     
+        1 tatgtctcct gaatctcctg ggctctggtg ggtttggttc tgtctacaag gcaacttacc
+       61 acggagctac agtggctgta aaacaagtga agagatgcag taagaaccat ttggcatcaa
+      121 ggcaaagctt ctgggcagaa ctaaatgtag cacgtcttga ccataacaat gtggtacaca
+      181 tagtagctgc tagcacatat acccctgcta gtcaggatag tttgggtacc gtaattatgg
+      241 aatatgcagg taattgcact ctacatcatg ttatctatgg gactggttat ttaacaggaa
+      301 ataacaatga tggccttaaa tgtgaccatg ggtttttgag tatagctcag gctgtgattt
+      361 actcctgcga tattgtggca gggttactgt ttctccattc tcagttaatt gtgcatctgg
+      421 atttaaaacc tgctaacata ttcatcacag aacataatgt ttgtaagatt ggagactttg
+      481 gatgctccca aaagctagaa gacagtgaat cttcaggact acatctttat caagggggaa
+      541 catacacaca tcgtgctcct gaacttctta aa
+//
+LOCUS       MG458761                 577 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Psammodynastes pulverulentus voucher KU309922 oocyte maturation
+            factor mos (C-mos) gene, partial cds.
+ACCESSION   MG458761
+VERSION     MG458761
+KEYWORDS    .
+SOURCE      Psammodynastes pulverulentus
+  ORGANISM  Psammodynastes pulverulentus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Psammodynastes.
+REFERENCE   1  (bases 1 to 577)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 577)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..577
+                     /organism="Psammodynastes pulverulentus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU309922"
+                     /db_xref="taxon:186598"
+     gene            <1..>577
+                     /gene="C-mos"
+     mRNA            <1..>577
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>577
+                     /gene="C-mos"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="CLLNLLGSGGFGSVYKATYRGATVAVKQVKRCSKNHLASRQSFW
+                     AELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGIAYLTGNNN
+                     DGLKYDHGFLSTAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFG
+                     CSQKLEDSESSGLHLYQGGTYTHRAPELLKG"
+ORIGIN     
+        1 tatgtctcct gaatctcttg ggctctggag ggtttggttc tgtctacaag gcaacttacc
+       61 gtggagctac agtggctgta aaacaagtga agagatgcag taaaaaccat ttggcatcaa
+      121 ggcaaagctt ctgggcagaa ctaaatgtag cacgtcttga ccataacaat gtggtacaca
+      181 tagtagctgc tagcacatgt acccctgcta gtcaggacag tttgggtacc ataattatgg
+      241 aatatgcagg taattgcact ctacatcatg ttatctatgg aattgcttat ttaacaggaa
+      301 ataacaatga cggccttaaa tatgaccatg ggtttttgag tacagctcag gctgtcattt
+      361 actcctgtga tattgtggca gggttaatgt tcctccattc tcagttaatt gtgcatctgg
+      421 atttaaaacc tgctaacata ttcatcacag aacataatgt ttgtaagatt ggagactttg
+      481 gatgctccca aaaactagaa gatagtgaat cttcaggact acatctttat caagggggaa
+      541 catacacaca tcgtgctcct gaacttctta aaggtga
+//
+LOCUS       MG458762                 578 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Myersophis alpestris voucher KU308684 oocyte maturation factor mos
+            (C-mos) gene, partial cds.
+ACCESSION   MG458762
+VERSION     MG458762
+KEYWORDS    .
+SOURCE      Myersophis alpestris
+  ORGANISM  Myersophis alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Myersophis.
+REFERENCE   1  (bases 1 to 578)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 578)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Myersophis alpestris"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU308684"
+                     /db_xref="taxon:1545037"
+     gene            <1..>578
+                     /gene="C-mos"
+     mRNA            <1..>578
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>578
+                     /gene="C-mos"
+                     /codon_start=2
+                     /product="oocyte maturation factor mos"
+                     /translation="LCLLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSF
+                     WAELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNN
+                     NDGLKCDHGFLSIAQAVIYSCDIVTGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDF
+                     GCSQKLEDSESSGLHLYQGGTYTHRAPELLKG"
+ORIGIN     
+        1 gttatgtctc ctgaatctcc tgggctctgg tgggtttggt tctgtctaca aggcaactta
+       61 ccacggagct acagtggctg taaaacaagt gaagagatgc agtaagaacc atttggcatc
+      121 aaggcaaagc ttctgggcag aactaaatgt agcacgtctt gaccataaca atgtggtaca
+      181 catagtagct gctagcacat gtacccctgc tagtcaggat agtttgggta ccataattat
+      241 ggaatatgca ggcaattgca ctctacatca tgttatctat gggactggtt atttaacagg
+      301 aaataacaat gatggcctta aatgtgacca tgggtttttg agtatagctc aggctgtcat
+      361 ctactcctgt gatattgtga cagggttaat gtttctccat tctcagttaa ttgtgcatct
+      421 ggatttaaaa cctgctaaca tatttatcac agaacataat gtttgtaaga ttggagactt
+      481 tggatgctcc caaaagctag aagatagtga atcttcagga ctacatcttt atcaaggggg
+      541 aacatacaca catcgtgctc ctgaacttct taaaggtg
+//
+LOCUS       MG458763                 548 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus nuchalis nuchalis voucher KU315163 oocyte maturation
+            factor mos (C-mos) gene, partial cds.
+ACCESSION   MG458763
+VERSION     MG458763
+KEYWORDS    .
+SOURCE      Cyclocorus nuchalis nuchalis
+  ORGANISM  Cyclocorus nuchalis nuchalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 548)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 548)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..548
+                     /organism="Cyclocorus nuchalis nuchalis"
+                     /mol_type="genomic DNA"
+                     /sub_species="nuchalis"
+                     /specimen_voucher="KU315163"
+                     /db_xref="taxon:2056557"
+     gene            <1..>548
+                     /gene="C-mos"
+     mRNA            <1..>548
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>548
+                     /gene="C-mos"
+                     /codon_start=2
+                     /product="oocyte maturation factor mos"
+                     /translation="GGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFWAELNVARL
+                     DHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNNDGLKCDHGF
+                     LSIAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFGCSQKLEDSE
+                     SSGLYLYQAGTYTHRAPELLKG"
+ORIGIN     
+        1 tggtgggttt ggttctgtct acaaggcaac ttaccacgga gctacagtgg ctgtaaaaca
+       61 agtgaagaga tgcagtaaga accatttggc atcaaggcaa agcttctggg cagaactaaa
+      121 tgtagcacgt cttgaccata acaatgtggt acacatagta gctgctagca catgtacccc
+      181 tgctagtcag gatagtttgg gtaccataat tatggaatat gcaggtaatt gcactctaca
+      241 tcatgttatc tatgggactg gttatttaac aggaaataat gatggcctta aatgtgacca
+      301 tgggtttttg agtatagctc aggctgtcat ttactcctgt gatattgtgg cagggttaat
+      361 gtttctccat tctcagttaa ttgtgcatct ggatttaaaa cctgctaaca tattcatcac
+      421 agaacataat gtttgtaaga ttggagactt tggatgctcc caaaagctag aagatagcga
+      481 atcttcagga ctatatcttt atcaagctgg aacatacaca catcgtgctc ctgaacttct
+      541 taaaggtg
+//
+LOCUS       MG458764                 574 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Cyclocorus nuchalis nuchalis voucher KU321700 oocyte maturation
+            factor mos (C-mos) gene, partial cds.
+ACCESSION   MG458764
+VERSION     MG458764
+KEYWORDS    .
+SOURCE      Cyclocorus nuchalis nuchalis
+  ORGANISM  Cyclocorus nuchalis nuchalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Colubridae incertae
+            sedis; Cyclocorus.
+REFERENCE   1  (bases 1 to 574)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 574)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..574
+                     /organism="Cyclocorus nuchalis nuchalis"
+                     /mol_type="genomic DNA"
+                     /sub_species="nuchalis"
+                     /specimen_voucher="KU321700"
+                     /db_xref="taxon:2056557"
+     gene            <1..>574
+                     /gene="C-mos"
+     mRNA            <1..>574
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>574
+                     /gene="C-mos"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="CLLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFW
+                     AELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNND
+                     GLKCDHGFLSIAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDFGC
+                     SQKLEDSESSGLYLYQAGTYTHRAPELLKG"
+ORIGIN     
+        1 tatgtctcct gaatctcctg ggctctggtg ggtttggttc tgtctacaag gcaacttacc
+       61 acggagctac agtggctgta aaacaagtga agagatgcag taagaaccat ttggcatcaa
+      121 ggcaaagctt ctgggcagaa ctaaatgtag cacgtcttga ccataacaat gtggtacaca
+      181 tagtagctgc tagcacatgt acccctgcta gtcaggatag tttgggtacc ataattatgg
+      241 aatatgcagg taattgcact ctacatcatg ttatctatgg gactggttat ttaacaggaa
+      301 ataatgatgg ccttaaatgt gaccatgggt ttttgagtat agctcaggct gtcatttact
+      361 cctgtgatat tgtggcaggg ttaatgtttc tccattctca gttaattgtg catctggatt
+      421 taaaacctgc taacatattc atcacagaac ataatgtttg taagattgga gactttggat
+      481 gctcccaaaa gctagaagat agcgaatctt caggactata tctttatcaa gctggaacat
+      541 acacacatcg tgctcctgaa cttcttaaag gtga
+//
+LOCUS       MG458765                 577 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Oxyrhabdium leporinum leporinum voucher KU325975 oocyte maturation
+            factor mos (C-mos) gene, partial cds.
+ACCESSION   MG458765
+VERSION     MG458765
+KEYWORDS    .
+SOURCE      Oxyrhabdium leporinum leporinum
+  ORGANISM  Oxyrhabdium leporinum leporinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Lamprophiidae; Oxyrhabdium.
+REFERENCE   1  (bases 1 to 577)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 577)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..577
+                     /organism="Oxyrhabdium leporinum leporinum"
+                     /mol_type="genomic DNA"
+                     /sub_species="leporinum"
+                     /specimen_voucher="KU325975"
+                     /db_xref="taxon:2056560"
+     gene            <1..>577
+                     /gene="C-mos"
+     mRNA            <1..>577
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>577
+                     /gene="C-mos"
+                     /codon_start=3
+                     /product="oocyte maturation factor mos"
+                     /translation="CLLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSFW
+                     AELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNNN
+                     DSLKCYHGFLNIAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFVTEHNVCKIGDFG
+                     CSQKLEDSESSGLHLYQGGTYTHRAPELLKG"
+ORIGIN     
+        1 tatgtctcct gaatctcctg ggctctggtg ggtttggttc tgtctacaaa gcaacttacc
+       61 acggagctac agtggctgta aaacaagtga agagatgcag taagaaccat ttggcatcaa
+      121 ggcaaagctt ctgggcagaa ctaaatgtag cacgtcttga ccataacaat gtggtacaca
+      181 tagtagctgc tagcacatgt acccctgcta gtcaggatag tttgggtacc ataattatgg
+      241 aatatgcagg taattgcact ctacatcatg ttatctatgg gactggttat ttaacaggaa
+      301 ataacaatga tagccttaaa tgttaccatg ggtttttgaa tatagctcag gctgtcattt
+      361 actcctgtga tattgtggca gggttaatgt ttctccactc tcagttaatt gtacatctgg
+      421 atttaaaacc tgctaacata ttcgtcacag aacataatgt ttgtaagatt ggagactttg
+      481 gatgctccca aaagctagaa gatagtgaat cttcaggact acatctttat caagggggaa
+      541 catacacaca tcgtgctcct gaacttctta aaggtga
+//
+LOCUS       MG458766                 580 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Hologerrhum philippinum voucher KU330056 oocyte maturation factor
+            mos (C-mos) gene, partial cds.
+ACCESSION   MG458766
+VERSION     MG458766
+KEYWORDS    .
+SOURCE      Hologerrhum philippinum (Philippine stripe-lipped snake)
+  ORGANISM  Hologerrhum philippinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Hologerrhum.
+REFERENCE   1  (bases 1 to 580)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 580)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..580
+                     /organism="Hologerrhum philippinum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU330056"
+                     /db_xref="taxon:2056562"
+     gene            <1..>580
+                     /gene="C-mos"
+     mRNA            <1..>580
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>580
+                     /gene="C-mos"
+                     /codon_start=2
+                     /product="oocyte maturation factor mos"
+                     /translation="LCLLNLLGSGEFGSVYKATYHGATVAVKQVKRCSKNHLASRQSF
+                     WAELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLTGNN
+                     NDGLKCDHGFLSIAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDF
+                     GCSQKLEDSESSGLHLYQGGTYTHRAPELLKGE"
+ORIGIN     
+        1 gttatgtctc ctgaatctcc tgggctctgg tgagtttggt tctgtctaca aggcaactta
+       61 ccacggagct acagtggctg taaaacaagt gaagagatgc agtaagaacc atttggcatc
+      121 aaggcaaagc ttctgggcag aactaaatgt agcacgtctt gaccataaca atgtggtaca
+      181 catagtagct gctagcacat gtacccctgc tagtcaggat agtttgggta ccataattat
+      241 ggaatatgca ggtaattgca ctctacatca tgttatctat gggactggtt atttaacagg
+      301 aaataacaat gatggcctta aatgtgacca tgggtttttg agtatagctc aggctgtcat
+      361 ttactcctgt gatattgtgg cagggttaat gtttctccat tctcagttaa ttgtgcatct
+      421 ggatttaaaa cctgctaaca tattcatcac agaacataat gtttgtaaga ttggagactt
+      481 tggatgctcc caaaagctag aagatagtga atcttcagga ctacatcttt atcaaggggg
+      541 aacatacaca catcgtgctc ctgaacttct taaaggtgag
+//
+LOCUS       MG458767                 578 bp    DNA     linear   VRT 12-DEC-2017
+DEFINITION  Hologerrhum philippinum voucher KU330752 oocyte maturation factor
+            mos (C-mos) gene, partial cds.
+ACCESSION   MG458767
+VERSION     MG458767
+KEYWORDS    .
+SOURCE      Hologerrhum philippinum (Philippine stripe-lipped snake)
+  ORGANISM  Hologerrhum philippinum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Colubridae; Natricinae;
+            Hologerrhum.
+REFERENCE   1  (bases 1 to 578)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Discovery of an old, archipelago-wide, endemic radiation of
+            Philippine snakes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 578)
+  AUTHORS   Weinell,J.L. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2017) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1345 Jayhawk Blvd,
+            Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 6.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Hologerrhum philippinum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU330752"
+                     /db_xref="taxon:2056562"
+     gene            <1..>578
+                     /gene="C-mos"
+     mRNA            <1..>578
+                     /gene="C-mos"
+                     /product="oocyte maturation factor mos"
+     CDS             <1..>578
+                     /gene="C-mos"
+                     /codon_start=1
+                     /product="oocyte maturation factor mos"
+                     /translation="LCLLNLLGSGGFGSVYKATYHGATVAVKQVKRCSKNHLASRQSF
+                     WAELNVARLDHNNVVHIVAASTCTPASQDSLGTIIMEYAGNCTLHHVIYGTGYLSGNN
+                     NDGLKCDHGFLSIAQAVIYSCDIVAGLMFLHSQLIVHLDLKPANIFITEHNVCKIGDF
+                     GCSQKLEDSESSGLHLYQGGTYTHRAPELLKG"
+ORIGIN     
+        1 ttatgtctcc tgaatctcct gggctctggt gggtttggtt ctgtctacaa ggcaacttac
+       61 cacggagcta cagtggctgt aaaacaagtg aagagatgca gtaagaacca tttggcatca
+      121 aggcaaagct tctgggcaga actaaatgta gcacgtcttg accataacaa tgtggtacac
+      181 atagtagctg ctagcacatg tacccctgct agtcaggata gtttgggtac cataattatg
+      241 gaatatgcag gtaattgcac tctacatcat gttatctatg ggactggtta tttatcagga
+      301 aataacaatg atggccttaa atgtgaccat gggtttttga gtatagctca ggctgtcatt
+      361 tactcctgtg atattgtggc agggttaatg tttctccatt ctcagttaat tgtgcatctg
+      421 gatttaaaac ctgctaacat attcatcaca gaacataatg tttgtaagat tggagacttt
+      481 ggatgctccc aaaagctaga agatagtgaa tcttcaggac tacatcttta tcaaggggga
+      541 acatacacac atcgtgctcc tgaacttctt aaaggtga
+//
