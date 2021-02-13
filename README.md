@@ -50,19 +50,19 @@
 ; **Table S1 – Primers**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS1_primers.pdf)
 ; **Table S2 – GenBank IDs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS2_genbank.pdf)
 ; **Table S3 – Sample Locality data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS3_LocalityData.pdf).
-   - **Add Link to Sequence Data**
+; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Bauer_2018_Trachylepis-varia_DNA-sequences.gb)
 
 ### 2017
  - Weinell, Jeffrey L, & Christopher C Austin. 2017. Refugia and Speciation in North American Scarlet Snakes (*Cemophora*). *Journal of Herpetology* 51(1), 161-171.
-**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Austin_2017_Cemophora.pdf).
-   - **Add Link to Sequence Data**
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Austin_2017_Cemophora.pdf)
+; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Austin_2017_Cemophora_DNA-sequences.gb)
  - Weinell, Jeffrey L, & Daniel M Portik, Aaron M Bauer. 2017. Noteworthy records of amphibians and reptiles from Mozambique. *African Herp News* 65, 4-10.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2017_MozambiqueNote.pdf).
 
 ### 2016
  - Metallinou, Margarita, & Jeffrey L Weinell, Benjamin R Karin, Werner Conradie, Philipp Wagner, Andreas Schmitz, Todd R Jackman, Aaron M Bauer. 2016. A single origin of extreme matrotrophy in African mabuyine skinks. *Biology Letters* 12(8), 20160430.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Metallinou-et-al_2016.pdf).
-   - **Add Link to Sequence Data**
+   - **Add DNA sequences**
  - Karin, Benjamin R, & Margarita Metallinou, Jeffrey L Weinell, Todd R Jackman, Aaron M Bauer. 2016. Resolving the higher-order phylogenetic relationships of the circumtropical *Mabuya* group (Squamata: Scincidae): An out-of-Asia diversification. *Molecular Phylogenetics and Evolution* 102, 220–232.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Karin-et-al_2016_Mabuya-group.pdf)
 ; **Supplementary Data 1**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Karin-et-al_2016_SupplementaryData1.pdf)
