@@ -49,13 +49,13 @@
 **Article & Supplementary Figs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell2018_Trachylepis-varia_MPE_Final_WithSupplementary.pdf)
 ; **Table S1 – Primers**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS1_primers.pdf)
 ; **Table S2 – GenBank IDs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS2_genbank.pdf)
-; **Table S3 – Sample Locality data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS3_LocalityData.pdf).
-; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Bauer_2018_Trachylepis-varia_DNA-sequences.gb)
+; **Table S3 – Sample Locality data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS3_LocalityData.pdf)
+; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Bauer_2018_Trachylepis-varia_DNA-sequences.gb).
 
 ### 2017
  - Weinell, Jeffrey L, & Christopher C Austin. 2017. Refugia and Speciation in North American Scarlet Snakes (*Cemophora*). *Journal of Herpetology* 51(1), 161-171.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-&-Austin_2017_Cemophora.pdf)
-; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Austin_2017_Cemophora_DNA-sequences.gb)
+; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Austin_2017_Cemophora_DNA-sequences.gb).
  - Weinell, Jeffrey L, & Daniel M Portik, Aaron M Bauer. 2017. Noteworthy records of amphibians and reptiles from Mozambique. *African Herp News* 65, 4-10.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2017_MozambiqueNote.pdf).
 
