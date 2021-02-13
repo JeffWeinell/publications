@@ -50,7 +50,8 @@
 ; **Table S1 – Primers**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS1_primers.pdf)
 ; **Table S2 – GenBank IDs**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS2_genbank.pdf)
 ; **Table S3 – Sample Locality data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell2018_Trachylepis-varia_MPE_TableS3_LocalityData.pdf)
-; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Bauer_2018_Trachylepis-varia_DNA-sequences.gb).
+; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Bauer_2018_Trachylepis-varia_DNA-sequences.gb)
+, [FASTA](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-&-Bauer_2018_Trachylepis-varia_DNA-sequences.fas).
 
 ### 2017
  - Weinell, Jeffrey L, & Christopher C Austin. 2017. Refugia and Speciation in North American Scarlet Snakes (*Cemophora*). *Journal of Herpetology* 51(1), 161-171.
