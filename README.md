@@ -21,7 +21,7 @@
 , [KU 323386](https://www.morphosource.org/concern/biological_specimens/000S11369)
 , [KU 203012](https://www.morphosource.org/concern/biological_specimens/000S12650).
 
- - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. **Volume, Issue, Pages???**.
+ - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. Advance access.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2020_Boiga-Biogeography_ZJLS_Advance-Article.pdf)
 ; **Supplementary Data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell_Boiga_ZJLS_zlaa090_SupplementaryData_GENBANK_IDs_CORRECTED.pdf)
 ; **DNA sequences**: [FASTA files](https://github.com/JeffWeinell/Boiga).
