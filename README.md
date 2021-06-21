@@ -1,10 +1,15 @@
 ## Jeff Weinell
  Publications and data
  
- *Last update 12 February 2021*
+ *Last update 20 June 2021*
 
 
 ### 2021
+ - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2021. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society* 192, 169-184.
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2021_Boiga-Biogeography_ZJLS_Final.pdf)
+; **Supplementary Data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell_Boiga_ZJLS_zlaa090_SupplementaryData_GENBANK_IDs_CORRECTED.pdf)
+; **DNA sequences**: [FASTA files](https://github.com/JeffWeinell/Boiga).
+
  - Weinell, Jeffrey L, & Alan E Leviton, Rafe M Brown. 2021. A new species of reed snake, genus *Calamaria* (Colubridae: Calamariinae), from Mindoro Island, Philippines. *Philippine Journal of Systematic Biology* 14(2), 1–14. 
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al_2021_Calamaria-alcalai.pdf)
 ; **DNA sequences**: [GenBank](https://github.com/JeffWeinell/publications/raw/main/data/Weinell-et-al_2021_Calamaria-alcalai_DNA-sequences.gb)
@@ -20,11 +25,6 @@
 , [KU 330056](https://www.morphosource.org/concern/biological_specimens/000S11370)
 , [KU 323386](https://www.morphosource.org/concern/biological_specimens/000S11369)
 , [KU 203012](https://www.morphosource.org/concern/biological_specimens/000S12650).
-
- - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2020. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society*. Advance access.
-**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Weinell-et-al-2020_Boiga-Biogeography_ZJLS_Advance-Article.pdf)
-; **Supplementary Data**: [PDF](https://github.com/JeffWeinell/publications/raw/main/data/Weinell_Boiga_ZJLS_zlaa090_SupplementaryData_GENBANK_IDs_CORRECTED.pdf)
-; **DNA sequences**: [FASTA files](https://github.com/JeffWeinell/Boiga).
 
  - Som, Hannah E, & L Lee Grismer, Jesse L Grismer, Perry L Wood Jr, Evan SH Quah, Rafe M Brown, Arvin C Diesmos, Jeffrey L Weinell, Bryan L Stuart. 2020. A new *Liopeltis* Fitzinger, 1843 (Squamata: Colubridae) from Pulau Tioman, Peninsular Malaysia. *Zootaxa* 4766(3), 472-484.
 **Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Som-et-al_2020_Liopeltis-tiomanica.pdf).
