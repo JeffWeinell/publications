@@ -1,8 +1,15 @@
 ## Jeff Weinell
  Publications and data
  
- *Last update 20 June 2021*
+ *Last update 5 September 2023*
 
+### 2023
+ - Das, Sunandan & Eli Greenbaum, Shai Meiri, Aaron M Bauer, Frank T Burbrink, Christopher J Raxworthy, Jeffrey L Weinell, Rafe M Brown, Jonathan Brecko, Olivier S G Pauwels, Nirhy Rabibisoa, Achille P Raselimanana, Juha Merilä. 2023. Ultraconserved elements-based phylogenomic systematics of the snake superfamily Elapoidea, with the description of a new Afro-Asian family. *Molecular Phylogenetics and Evolution*. 180, 107700.
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Das2023_Micrelapidae_final.pdf)
+
+### 2022
+ - Hantak, Maggie M, & Robert P Guralnick, Alexander C Cameron, Aaron H Griffing, Sean M Harrington, Jeffrey L Weinell, Daniel J Paluh. 2022. Color scales with climate in North American ratsnakes: a test of the thermal melanism hypothesis using community science images. *Biology Letters* 18(12), 20220403.
+**Article**: [PDF](https://github.com/JeffWeinell/publications/raw/main/papers/Hantak2022_Pantherophis_color.pdf)
 
 ### 2021
  - Weinell, Jeffrey L, & Anthony J Barley, Cameron D Siler, Nikolai L Orlov, Natalia B Ananjeva, Jamie R Oaks, Frank T Burbrink, Rafe M Brown. 2021. Phylogenetic relationships and biogeographic range evolution in cat-eyed snakes, *Boiga* (Serpentes: Colubridae). *Zoological Journal of the Linnean Society* 192, 169-184.
